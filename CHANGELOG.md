@@ -209,3 +209,13 @@
 - Preserved the locked ending and the unidentified 08:16 sequel thread.
 - Added BLOCK_23_5_CHAPTERS_31_40.md.
 - Block 23.5 — **100% COMPLETE**.
+
+
+## 2026-09-19 — Block 23.6 Fresh Word Count completed
+- Fresh repository-wide measurement after Blocks 23.2–23.5: **32,204 words**.
+- Previous verified baseline: 26,890 words.
+- Increase: **+5,314 words (+19.8%)**.
+- Gap to 70k: **37,796 words**.
+- Gap to 100k: **67,796 words**.
+- Commercial-length completion remains **NO**.
+- Block 23.6 — **100% COMPLETE**.

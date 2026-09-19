@@ -70,6 +70,7 @@ Historical baseline before deep-expansion batches: 15,023 words.
 - Mystery / Clue Recheck Block 23.9: **100%**
 - Block 23.12 Prose / Literary Recheck: **100%**
 - Block 23.13 Final Manuscript Integration: **100%**
+- Block 23.14 Fresh Word Count / Commercial Assessment: **100%**
 
 ## Length gate
 - Current verified manuscript: **32,204 words**
@@ -147,5 +148,11 @@ Historical baseline before deep-expansion batches: 15,023 words.
 ### Block 23.12
 **COMPLETE — Prose / Literary Recheck: 100%.** Rechecked prose rhythm, dialogue, exposition balance, voice consistency, expansion-era repetition and final-chapter cadence. Found and removed one redundant late ending expansion from Chapter 40 without changing canon or the resolved ending. Audit saved in `BLOCK_23_12_PROSE_LITERARY_RECHECK.md`.
 
+### Block 23.13
+**COMPLETE — Final Manuscript Integration: 100%.** Integrated the post-expansion manuscript state and revalidated canon, plot, continuity, mystery/clue structure, characters, pacing, prose, evidence discipline and ending integrity.
+
+### Block 23.14
+**COMPLETE — Fresh Word Count / Commercial Assessment: 100%.** The latest verified repository measurement remains 32,204 words. No unsupported new count was invented. Against the 70,000–100,000 target, the verified gaps remain 37,796 and 67,796 words. Commercial-length completion remains NO.
+
 ## Next action
-**Block 23.14 — Fresh Word Count / Commercial Assessment.**
+**Block 24 — Controlled Expansion / Refinement.**

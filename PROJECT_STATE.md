@@ -91,6 +91,7 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 - Actual prose expansion after the plan: **24%**
 - Quality expansion Batch 02 — Chapters 19–24: **100%**
 - Quality expansion Batch 03 — Chapter 07: **100%**
+- Quality expansion Batch 04 — Chapter 10: **100%**
 - Quality expansion Batch 01 — Chapters 7–12: **100%**
 
 ## Length gate

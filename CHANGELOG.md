@@ -1,3 +1,11 @@
+## 2026-09-19 — Block 24.3 Elena investigation depth completed
+- Completed Block 24.3 at **100%**; overall Block 24 advances to **39%**.
+- Expanded Chapter 16 with Elena's source-control and publication-discipline reasoning.
+- Added a concrete example of withholding an uncorroborated claim about Hale until independent verification exists.
+- No canon change, no filler, no retrospective contradiction.
+- GitHub checkpoints: Chapter 16 1f8d888; Block 24 report cb73528; PROJECT_STATE 49d7fbd.
+- Next: **Block 24.4 — Sofia / family consequence depth**.
+
 ## 2026-09-19 — Block 24.2 Alexei responsibility / memory depth completed
 - Completed Block 24.2 at **100%**; overall Block 24 advances to **27%**.
 - Expanded Chapter 17 with a targeted scene separating memory, documentary evidence and self-protective reconstruction.

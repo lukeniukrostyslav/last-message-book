@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 2026-09-19 — Verified GitHub checkpoint saved
+- Saved the current project state to **main** after the corrective 9-chapter pass.
+- Checkpoint covers the current manuscript/editorial state and preserves the next action: **Block 12 — Actual Prose Expansion**.
+- No chapter outside the corrective set was re-edited.
+
 ## 2026-09-19 — Block 11 quality expansion planning completed
 - Rebuilt QUALITY_EXPANSION_PLAN.md as the controlled production specification for Block 12.
 - Locked the non-negotiable expansion rules: no padding, no silent canon changes, no duplicate clues, and no unordered chapter hopping.

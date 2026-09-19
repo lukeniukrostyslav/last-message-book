@@ -88,7 +88,7 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 - Measurement gate: **100%**
 - Quality expansion planning: **100%** (Block 11 complete)
 - Quality expansion chapter prioritization: **100%**
-- Actual prose expansion after the plan: **24%**
+- Actual prose expansion after the plan: **33%** (13 of 40 chapters substantively completed in the controlled production sequence).
 - Quality expansion Batch 02 — Chapters 19–24: **100%**
 - Quality expansion Batch 03 — Chapter 07: **100%**
 - Quality expansion Batch 04 — Chapter 10: **100%**
@@ -99,6 +99,7 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 - Corrective quality-expansion pass — selected remaining chapters (01, 02, 04, 05, 06, 08, 09, 14, 15): **100%** (9/9 chapters substantively reviewed and expanded).
 - Chapters already substantively expanded outside this corrective set were not re-edited.
 - New full-manuscript word count: **not yet measured** after this pass.
+- Block 12 production checkpoint: **Chapters 01, 02, 04, 05, 06, 08, 09, 13, 14, 15, 16, 17, 18 = 13/40 = 33%**; Chapters 13, 16, 17 and 18 were newly expanded in this ordered batch.
 - **GitHub checkpoint saved and verified on main after the corrective 9-chapter pass.**
 
 ## Length gate
@@ -109,4 +110,4 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 - Commercially length-complete: **NO**
 
 ## Next action
-**Block 12 — Actual Prose Expansion: 24% → 100%.** Execute the approved quality-expansion plan in manuscript order, save every production batch to GitHub, then re-measure the complete manuscript. No artificial word-count padding.
+**Block 12 — Actual Prose Expansion: 33% → 100%.** Execute the approved quality-expansion plan in manuscript order, save every production batch to GitHub, then re-measure the complete manuscript. No artificial word-count padding.

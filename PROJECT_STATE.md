@@ -146,8 +146,11 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 ## Block 23.2 checkpoint
 **COMPLETE — Prologue + Chapters 01–10: 100%.** The range was expanded in manuscript order and saved to GitHub. Verified range count: 10,581 words; current working manuscript total: 29,425 words.
 
+## Block 23.3 checkpoint
+**COMPLETE — Chapters 11–20: 100%.** Chapters 11–20 were expanded in manuscript order and saved to GitHub. Exact full-manuscript recount is deferred to Block 23.6.
+
 ## Next action
-**Block 23.3 — Chapters 11–20: 0%.**
+**Block 23.4 — Chapters 21–30: 0%.**
 
 ## Final Canon Verification checkpoint refresh
 **Block 21 remains 100% COMPLETE.** Final canon verification is locked; no canon change is required. GitHub main checkpoint refreshed 2026-09-19.

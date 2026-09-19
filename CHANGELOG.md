@@ -1,3 +1,11 @@
+## 2026-09-19 — Block 28.1 Actual Publishing Package Structure completed
+- Created the real `PUBLISHING_PACKAGE/` structure in GitHub with six controlled layers: manuscript, metadata, marketing, QA, manifest and archive.
+- Bound the package to the existing manuscript and canon source-of-truth rules.
+- Preserved the latest verified 32,204-word measurement without treating it as the final release count.
+- Block 28.1 — **100% COMPLETE**.
+- Block 28 overall: **12.5%**.
+- Next: **28.2 Reader-facing manuscript assembly**.
+
 ## 2026-09-19 — Block 27.8 Publishing Preparation Final QA completed
 - Revalidated Blocks 27.1–27.7 in order.
 - Confirmed title, genre, manuscript scope, marketing copy, publication metadata rules and package structure remain consistent with locked canon.

@@ -202,3 +202,10 @@
 - Preserved canon and evidence boundaries.
 - Added BLOCK_23_4_CHAPTERS_21_30.md.
 - Block 23.4 — **100% COMPLETE**.
+
+
+## 2026-09-19 — Block 23.5 Chapters 31–40 completed
+- Expanded Chapters 31–40 in manuscript order.
+- Preserved the locked ending and the unidentified 08:16 sequel thread.
+- Added BLOCK_23_5_CHAPTERS_31_40.md.
+- Block 23.5 — **100% COMPLETE**.

@@ -1,3 +1,12 @@
+## 2026-09-19 — Block 25.7 Ending / aftermath final pass completed
+- Re-read Chapters 35–40 as one continuous final-act and aftermath sequence.
+- Confirmed Alexei's accountability, archive survival and the resolved Book 1 mechanism remain coherent.
+- Confirmed the 08:16 message remains intentionally unidentified and is not attributed to M.
+- Confirmed Chapter 40's two remaining scenes serve distinct functions and preserve the agency-centered ending.
+- No manuscript correction, canon change or artificial padding introduced.
+- Block 25.7 — **100% COMPLETE**.
+- Next: **Block 25.8 — Final editorial integration**.
+
 ## 2026-09-19 — Block 25.6 Dialogue / exposition final pass completed
 - Audited Prologue + Chapters 01–40 in manuscript order for dialogue/exposition balance and function.
 - Confirmed the em-dash dialogue convention is consistent; no competing hyphen-led dialogue convention was found.

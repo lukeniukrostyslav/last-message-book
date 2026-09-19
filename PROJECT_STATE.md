@@ -61,6 +61,10 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 - Deep scene-level expansion: **100%** (40 of 40 chapters)
 - Refinement pass: **in progress**
 - Targeted manual prose diversification — Chapter 35: **100%**
+- Targeted manual prose diversification — Chapter 24: **100%**
+- Targeted manual prose diversification — Chapter 31: **100%**
+- Targeted manual prose diversification — Chapter 33: **100%**
+- Targeted manual prose diversification — Chapter 36: **100%**
 - Targeted manual prose diversification — Chapter 37: **100%**
 - Targeted manual prose diversification — Chapter 38: **100%**
 - Targeted manual prose diversification — Chapter 39: **100%**

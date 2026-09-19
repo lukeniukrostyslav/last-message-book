@@ -23,26 +23,25 @@ The main explanations are present:
 - Day 30 concerns deletion;
 - evidence requires provenance and human accountability.
 
-The next pass must verify that every reveal has enough earlier foreshadowing and that no reveal arrives only because the outline says so.
+The expansion pass is also checking that revelations are supported by earlier clues and that the mechanism does not become omniscient.
 
-### 3. Character continuity — 80%
+### 3. Character continuity — 82%
 Alexei's arc is coherent at the architecture level: investigator -> suspect -> participant -> accountable witness.
 Elena, Daniel and Sofia have defined functions.
 
-The next pass must strengthen emotional beats and ensure supporting characters are not used only as exposition devices.
+Chapters 13–14 now strengthen Sofia as an active character rather than only an exposition device: she challenges Alexei's secrecy, retains her own evidence, and becomes part of the pressure created by the protocol.
 
-### 4. Pacing — 68%
+### 4. Pacing — 72%
 The short-chapter format is consistent with the intended thriller style.
 
-The next pass must identify chapters that are too compressed and expand scenes where tension, sensory detail, conflict or dialogue are currently represented only as summary.
+Chapters 13–14 were expanded with additional dialogue, decision pressure, evidence interpretation and emotional conflict rather than filler. Further expansion remains necessary across the manuscript.
 
-### 5. Prose / literary polish — 20%
-No claim of final prose polish yet.
-The existing draft is intentionally compact and requires a substantial expansion and rewrite pass.
+### 5. Prose / literary polish — 22%
+The expansion pass is adding scene texture, dialogue rhythm, internal conflict and more specific physical detail. Final prose polish is still not complete.
 
-### 6. Commercial-length readiness — 15%
+### 6. Commercial-length readiness — 20%
 The first draft is structurally complete, but it is NOT yet a 70–100k-word commercial novel.
-The current files are a compressed draft/scene manuscript. Word count must be measured exactly in the next production pass before any claim about target length.
+The current files are a compressed draft/scene manuscript. Exact total word count has not yet been measured, so this percentage is production progress, not a measured percentage of the final word-count target.
 
 ## Editorial gate
 
@@ -53,17 +52,21 @@ The manuscript may be called:
 - commercially length-complete: NO
 - fully edited: NO
 
+## Commercial expansion pass
+
+The chapter-by-chapter commercial expansion pass has now progressed through chapters 1–14. Chapters 13–14 received accepted revisions on 2026-09-19.
+
+The expansion adds scene-level material, dialogue, emotional conflict, evidence interpretation and character agency. It is not intended to inflate the manuscript with filler.
+
+The 20% figure represents production progress through the planned expansion pass, not a measured percentage of the final word-count target.
+
 ## Next production pass
 
-1. Measure exact manuscript word count before setting the final commercial-length target.
-2. Expand compressed scenes without filler.
+1. Continue commercial expansion through chapters 15–18.
+2. Measure exact manuscript word count once the next stable batch is complete.
 3. Perform continuity audit across all chapters.
 4. Verify clue/twist foreshadowing.
 5. Strengthen dialogue and character emotion.
 6. Remove repetition and generic thriller phrasing.
 7. Re-read ending against the opening promise.
 8. Save every accepted revision to GitHub.
-
-## Commercial expansion pass
-
-The first expansion pass has progressed through chapters 1–12. These chapters now contain additional investigation beats, sensory detail, dialogue, internal conflict and evidence-checking rather than simple summary. The 15% figure represents production progress through the planned chapter-by-chapter expansion pass, not a measured percentage of the final word-count target.

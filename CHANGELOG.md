@@ -1,3 +1,12 @@
+## 2026-09-19 — Block 25.6 Dialogue / exposition final pass completed
+- Audited Prologue + Chapters 01–40 in manuscript order for dialogue/exposition balance and function.
+- Confirmed the em-dash dialogue convention is consistent; no competing hyphen-led dialogue convention was found.
+- Confirmed technical explanation remains tied to investigation, evidence and character decisions rather than detached exposition.
+- Preserved the restrained final-act treatment and unidentified 08:16 message.
+- No manuscript correction, canon change, artificial rewriting or word-count padding introduced.
+- Block 25.6 — **100% COMPLETE**.
+- Next: **Block 25.7 — Ending / aftermath final pass**.
+
 ## 2026-09-19 — Block 25.5 Full manuscript language consistency completed
 - Audited Prologue + Chapters 01–40 in manuscript order for recurring language consistency.
 - Checked canonical character names and recurring forms, PR-06 terminology, the M designation, chapter-heading format, Day/date labels and obvious spelling/transliteration variants.

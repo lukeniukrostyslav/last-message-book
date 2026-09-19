@@ -1,3 +1,12 @@
+## 2026-09-19 — Block 27.7 Publishing Package Integration completed
+- Integrated the publication package into a coherent six-layer release structure: manuscript, metadata, marketing, QA, manifest and archive.
+- Defined source-of-truth, metadata integrity and final-word-count rules.
+- Confirmed publication readiness still requires the later release QA gate.
+- Added BLOCK_27_7_PUBLISHING_PACKAGE_INTEGRATION.md.
+- Block 27.7 — **100% COMPLETE**.
+- Block 27 overall: **87.5%**.
+- Next: **Block 27.8 — Publishing preparation final QA**.
+
 ## 2026-09-19 — Block 27.6 Final Publication Copy Preparation completed
 - Defined the reader-facing publication copy specification: title page, clean Prologue, Chapters 01–40, consistent headings/typography and no development-only audit material.
 - Preserved locked ending and 08:16 treatment.

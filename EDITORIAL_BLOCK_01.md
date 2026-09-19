@@ -13,7 +13,7 @@ Strengthen the opening contract of the novel: the warning, 30-day clock, future-
 - No reveal may depend on impossible time travel.
 
 ## Pass result
-Status: **IN PROGRESS — opening chapters 1–9 revised**
+Status: **COMPLETE — opening arc chapters 1–18 revised**
 Structural target: **100%**
 Prose expansion: **75%**
 Continuity verification: **85%**
@@ -25,6 +25,9 @@ Continuity verification: **85%**
 4. Seed the PR-06 signature without explaining it too early.
 5. Preserve ambiguity around the sender.
 6. Avoid explicitly revealing M's mechanism before its planned reveal.
+
+## Completion note
+Chapters 1–18 were revised and checked against the locked premise, plot architecture and twist constraints. The opening escalation now reaches the planned M reveal without changing canon.
 
 ## Quality gate
 This block is not marked complete until the actual chapter text is revised and re-read against CANON_LOCK, MASTER_PLOT and TWISTS.

@@ -31,3 +31,9 @@ The strongest screening signal is the verb «посмотрел» (167 occurrenc
 ## Gate result
 Quantitative repetition screening: **100%**
 Manual prose diversification: **not yet complete**
+
+
+## Targeted manual diversification — 2026-09-19
+- Chapter 39 received two low-risk substitutions of repeated visual-action phrasing.
+- Updated measured screening count for «посмотрел»: **165**.
+- Broader manual diversification remains in progress; no canon or plot change.

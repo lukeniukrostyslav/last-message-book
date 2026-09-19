@@ -62,3 +62,8 @@ Manual prose diversification: **not yet complete**
 - Chapter 22: three low-risk visual-action repetitions diversified; canon and plot unchanged.
 - Chapter 23: five low-risk visual-action repetitions diversified; canon and plot unchanged.
 - Chapter 32: five low-risk visual-action repetitions diversified; canon and plot unchanged.
+
+- Chapter 11: three low-risk visual-action repetitions diversified; canon and plot unchanged.
+- Chapter 19: four low-risk visual-action repetitions diversified; canon and plot unchanged.
+- Chapter 20: three low-risk visual-action repetitions diversified; canon and plot unchanged.
+- Chapter 21: three low-risk visual-action repetitions diversified; canon and plot unchanged.

@@ -1,3 +1,11 @@
+## 2026-09-19 — Block 28.8 Publishing Package Integration QA completed
+- Verified the six-layer publishing package and the complete reader-facing manuscript assembly: title page + Prologue + Chapters 01–40.
+- Verified development-only section labels were removed from package copies while root manuscript sources remained untouched.
+- Revalidated locked canon, M mechanism, staged photograph, Alexei accountability, archive survival and unidentified 08:16 ending treatment.
+- Kept the latest verified 32,204-word count unchanged; final assembled-package count remains a Block 29 task.
+- **Block 28 — 100% COMPLETE.**
+- Next: **Block 29 — Final Release QA**.
+
 ## 2026-09-19 — Block 28.1 Actual Publishing Package Structure completed
 - Created the real `PUBLISHING_PACKAGE/` structure in GitHub with six controlled layers: manuscript, metadata, marketing, QA, manifest and archive.
 - Bound the package to the existing manuscript and canon source-of-truth rules.

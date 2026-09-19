@@ -1,3 +1,12 @@
+## 2026-09-19 — Block 25.1 started and completed
+- Started **Block 25 — Final Editorial Pass**.
+- Completed **25.1 Chapters 1–10** at **100%**.
+- Reviewed sentence clarity, repetition, dialogue, exposition density, scene-function overlap, terminology and thriller rhythm.
+- No prose correction was justified in this segment; no artificial edits were introduced.
+- Created `BLOCK_25_FINAL_EDITORIAL_PASS.md`.
+- PROJECT_STATE checkpoint: 4c61008.
+- Next: **25.2 Chapters 11–20 final editorial pass**.
+
 ## 2026-09-19 — Block 24.8 and Block 24 completed
 - Completed Block 24.8 Final-act consequence depth at **100%**.
 - Chapter 38 now includes the continuing obligation to preserve all PR-06 materials for review, including evidence that may expose Alexei's own responsibility.

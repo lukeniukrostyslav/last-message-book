@@ -2,13 +2,14 @@
 
 ## Current gate — after 100% deep expansion
 
-The scene-level expansion of all 40 chapters is complete. The next stage is refinement, not adding structural chapters.
+The scene-level expansion of all 40 chapters is complete. The next stage is refinement and quality expansion.
 
 ### Pass 1 — Measurement
 - Fresh repository-wide manuscript word count.
 - Chapter-by-chapter word distribution.
 - Compare measured total with the 70–100k commercial target.
-- No exact current total will be claimed until this pass is completed.
+- **COMPLETE — 100%.**
+- Current measured total: **20,620 words**.
 
 ### Pass 2 — Continuity
 - timeline and Day 0–30 chronology;
@@ -20,6 +21,8 @@ The scene-level expansion of all 40 chapters is complete. The next stage is refi
 - final 08:16 message;
 - evidence vs hypothesis boundaries.
 
+Status: **98% structural / 97% mystery-clue continuity**; targeted refinement remains.
+
 ### Pass 3 — Repetition / prose
 - repeated sentence structures;
 - repeated emotional beats;
@@ -29,8 +32,17 @@ The scene-level expansion of all 40 chapters is complete. The next stage is refi
 - dialogue differentiation;
 - scene openings and endings.
 
+Quantitative screening: **100% complete**. Detailed screening saved in REPETITION_AUDIT.md.
+Manual diversification and line edit remain in progress.
+
 ### Pass 4 — Commercial-length decision
-After measurement, expand only scenes where additional material improves character, tension, evidence or emotional consequence. Do not inflate word count with filler.
+Measured manuscript: **20,620 words**.
+Gap to 70k: **49,380 words**.
+Gap to 100k: **79,380 words**.
+
+Expand only scenes where additional material improves character, tension, evidence or emotional consequence. Do not inflate word count with filler.
+
+Status: **10%** — measurement is complete; chapter-level expansion design has not yet been executed.
 
 ### Pass 5 — Line edit
 - rhythm;
@@ -40,15 +52,7 @@ After measurement, expand only scenes where additional material improves charact
 - stronger transitions;
 - terminology consistency.
 
-### Pass 6 — Publishing package
-- title/subtitle;
-- synopsis;
-- metadata;
-- manuscript formatting;
-- front/back matter;
-- release checklist.
+Status: **10%** — quantitative screening completed; full manual line edit remains.
 
-## Current status
-Deep scene expansion: **100%**
-Refinement: **in progress**
-Publication-ready: **NO**
+### Pass 6 — Publishing package
+Status: **0%**.

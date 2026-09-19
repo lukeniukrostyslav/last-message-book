@@ -127,9 +127,11 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 ## Block 18 checkpoint
 **COMPLETE — Commercial-Length Readiness: 100%.** The commercial-length gate, target, expansion architecture, no-padding rules and future measurement requirements are documented in COMMERCIAL_LENGTH_READINESS.md. The manuscript itself is explicitly NOT yet commercial-length-complete; no inflated word-count claim is made.
 
-## Next action
-**Block 19 checkpoint**
+## Block 19 checkpoint
 **COMPLETE — Full Manual Line Edit: 100%.** Prologue → Chapters 01–40 covered in ordered line-edit audit. Audit saved in FULL_MANUAL_LINE_EDIT_AUDIT.md.
 
+## Block 20 checkpoint
+**COMPLETE — Final Manuscript QA: 100%.** Prologue → Chapters 01–40 checked for canon, chronology, M mechanism, evidence discipline, character agency, duplicate structure and ending integrity. A concrete premature end-marker defect in Chapter 40 was corrected and saved. Audit saved in FINAL_MANUSCRIPT_QA.md.
+
 ## Next action
-**Block 20 — Final Manuscript QA: 0%.**
+**Block 21 — Final Canon Verification: 0%.**

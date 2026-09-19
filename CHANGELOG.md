@@ -42,3 +42,12 @@
 - Completed the planned chapter-by-chapter commercial expansion pass through Chapter 40.
 - Updated editorial audit: structural continuity 98%, mystery/clue continuity 97%, character continuity 95%, pacing 90%, prose/literary polish 55%, commercial-length production progress 65%.
 - Next: complete ending pass, exact word-count measurement, full final audit, prose/repetition cleanup, publishing package.
+
+
+## 2026-09-19 — Full manuscript measurement + ending pass
+- Completed a first complete ending pass across Chapters 37–40.
+- Measured Prologue + Chapters 1–40 using a consistent project word-tokenization rule.
+- Current measured manuscript size: **15,023 words**.
+- This confirms the manuscript is structurally complete but still substantially shorter than the planned 70–100k commercial range.
+- Updated PROJECT_STATE and EDITORIAL_AUDIT with the measured size.
+- Next production priority: substantial scene-level expansion without filler, followed by full continuity, clue, prose and repetition audits.

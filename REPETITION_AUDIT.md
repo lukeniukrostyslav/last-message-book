@@ -39,3 +39,5 @@ Manual prose diversification: **not yet complete**
 - Broader manual diversification remains in progress; no canon or plot change.
 
 - Chapter 38: two low-risk visual-action repetitions diversified; canon and plot unchanged.
+
+- Chapter 37: two low-risk visual-action repetitions diversified; canon and plot unchanged.

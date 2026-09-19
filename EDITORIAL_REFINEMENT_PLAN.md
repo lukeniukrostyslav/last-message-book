@@ -21,7 +21,7 @@ The scene-level expansion of all 40 chapters is complete. The next stage is refi
 - final 08:16 message;
 - evidence vs hypothesis boundaries.
 
-Status: **100% structural / 100% mystery-clue continuity**. Both continuity audits are complete; mystery/clue audit saved in MYSTERY_CLUE_CONTINUITY_AUDIT.md.
+Status: **100% structural / 100% mystery-clue / 100% character continuity**. The three continuity audits are complete; character audit saved in CHARACTER_CONTINUITY_AUDIT.md.
 
 ### Pass 3 — Repetition / prose
 - repeated sentence structures;

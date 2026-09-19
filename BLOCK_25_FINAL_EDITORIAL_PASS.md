@@ -35,3 +35,21 @@ Next: **25.3 — Chapters 21–30 final editorial pass.**
 ## Progress
 **25.3 complete.**
 Next: **25.4 — Chapters 31–40 final editorial pass.**
+
+
+## 25.4 — Chapters 31–40
+**100% COMPLETE**
+- Reviewed Chapters 31–40 in manuscript order for prose clarity, rhythm, dialogue, exposition, repetition, technical terminology, evidence-vs-interpretation discipline, final-act pacing and ending integrity.
+- Found several concrete duplicate/redundant expansion scenes that repeated adjacent material without adding a new plot or character function.
+- Chapter 32: removed the duplicate pre-publication checking scene; retained the later expanded version, which contains the concrete wording correction and final-state preservation.
+- Chapter 33: removed two redundant post-export scenes; retained the more complete Day 30 expansion that preserves the independent verification and deletion sequence.
+- Chapter 37: removed the duplicate testimony scene; retained the later expanded testimony pass.
+- Chapter 38: removed two redundant aftermath scenes; retained the consolidated consequence section, including the requirement to preserve all PR-06 materials, including material that may expose Alexei's own responsibility.
+- Chapter 39: removed two duplicate 08:16 scenes; retained the consolidated final-message treatment that preserves the message as intentionally unidentified.
+- Chapter 40: reviewed both remaining aftermath scenes and retained them because they serve distinct functions: ordinary post-ending life and final archival verification.
+- No canon change and no artificial word-count padding introduced.
+- **Editorial decision: targeted duplicate-scene cleanup only; ending and locked canon preserved.**
+
+## Progress
+**25.4 complete.**
+Next: **25.5 — Full manuscript language consistency.**

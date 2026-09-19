@@ -11,3 +11,12 @@
 - Batch 05: **100%**.
 - Deep scene-level expansion coverage: **30/40 chapters = 75%**.
 - Last verified full-manuscript baseline remains **15,023 words**; no newer exact count claimed until a fresh recount.
+
+## 2026-09-19 — Deep commercial expansion Batch 06 completed
+- Completed scene-level expansion of Chapters 31–36.
+- Strengthened provenance, verification, and evidentiary limits.
+- Strengthened the Day 30 deletion sequence and final decision journal.
+- Strengthened Alexei's accountability and the boundary between his choice and M's influence.
+- Batch 06: **100%**.
+- Deep scene-level expansion coverage: **36/40 = 90%**.
+- Last verified full-manuscript baseline remains **15,023 words**; no newer exact count claimed until a fresh recount.

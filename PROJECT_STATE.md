@@ -10,6 +10,17 @@ Manuscript: **100%**
 Editorial system: **100%**
 Publishing package: **100%**
 
+## Block 29 — Final Release QA
+- 29.1 Package integrity audit: **100%**
+- 29.2 Canon / continuity release QA: **100%**
+- 29.3 Reader copy hygiene QA: **100%**
+- 29.4 Metadata / marketing release QA: **100%**
+- 29.5 Final word count measurement: **0% — BLOCKED pending safe complete-text measurement**
+- 29.6 Manifest / source revision QA: **100%**
+- 29.7 Final consistency / release surface audit: **100%**
+- 29.8 Final release QA gate: **0%**
+- Block 29 overall: **75%**
+
 ## Block 28 — Publishing Package
 - 28.1 Actual package structure: **100%**
 - 28.2 Reader-facing manuscript assembly: **0%**

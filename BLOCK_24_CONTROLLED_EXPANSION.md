@@ -1,7 +1,7 @@
 # BLOCK 24 — CONTROLLED EXPANSION / REFINEMENT
 
 ## Status
-**87% IN PROGRESS**
+**100% COMPLETE**
 
 Date: 2026-09-19
 
@@ -72,7 +72,11 @@ Develop pressure through documented choices, incentives and consequences rather 
 Add meaningful environmental detail only where it changes tension, observation or character behaviour.
 
 ### 24.8 Final-act consequence depth
-**0%**
+**100% COMPLETE**
+- Chapter 38 now adds a concrete post-publication consequence: preservation of all PR-06 materials for ongoing review.
+- Alexei explicitly preserves evidence that may expose his own responsibility, extending the ending from confession to continuing accountability.
+- The expansion adds a new consequence rather than repeating the existing confession/investigation scenes.
+- GitHub checkpoint: `a3f695fa49791bee7015698daf98b1e23ca0f349`
 Strengthen Day 27–30 and aftermath only where it adds causal or emotional value.
 
 ## Quality rule

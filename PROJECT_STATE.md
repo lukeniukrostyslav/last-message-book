@@ -7,7 +7,7 @@ Foundation: **100%**
 Story architecture: **100%**
 Chapter outline: **100%**
 Manuscript: **100%**
-Editorial system: **68%**
+Editorial system: **72%**
 Publishing package: **0%**
 
 ## Current phase
@@ -30,63 +30,28 @@ Publishing package: **0%**
 ## Manuscript
 First manuscript draft complete: **100%**. Structural completion is not the same as commercial word-count completion; the draft still requires substantial expansion and editing.
 
-Measured current manuscript size before this latest expansion: **15,023 words** using the project tokenization rule. The new Chapter 1 text has been expanded but the repository-wide count has not yet been re-run, so 15,023 remains the last verified total.
+Last verified repository-wide baseline before Batch 01: **15,023 words**. A current full recount has not yet been completed after the two expansion batches, so no newer total is claimed.
 
-## Deep commercial expansion — current batch
+## Deep commercial expansion
 - Batch 01 — Chapters 1–6: **100%**
-- Chapter 1 scene-level expansion: **100%**
-- Chapter 2 scene-level expansion: **100%**
-- Chapter 3 scene-level expansion: **100%**
-- Chapter 4 scene-level expansion: **100%**
-- Chapter 5 scene-level expansion: **100%**
-- Chapter 6 scene-level expansion: **100%**
-- Canon integrity after Chapter 1 expansion: **100%**
+- Batch 02 — Chapters 7–12: **100%**
+- Chapters 7–12 scene-level expansion: **100%**
 - Evidence-vs-interpretation discipline: **100%**
-
-The current pass adds scene-level texture, concrete verification actions, internal conflict and investigative procedure without changing locked plot facts or revealing future mechanisms early.
+- Canon integrity: **100%**
 
 ## Manuscript progress
 - Prologue: **100%**
-- Chapter 1: **100%**
-- Chapter 2: **100%**
-- Chapter 3: **100%**
-- Chapter 4: **100%**
-- Chapter 5: **100%**
-- Chapter 6: **100%**
-- Chapter 7: **100%**
-- Chapter 8: **100%**
-- Chapter 9: **100%**
-- Chapter 10: **100%**
-- Chapter 11: **100%**
-- Chapter 12: **100%**
-- Chapter 13: **100%**
-- Chapter 14: **100%**
-- Chapter 15: **100%**
-- Chapter 16: **100%**
-- Chapter 17: **100%**
-- Chapter 18: **100%**
-- Chapter 19: **100%**
-- Chapter 20: **100%**
-- Chapter 21: **100%**
-- Chapter 22: **100%**
-- Chapter 23: **100%**
-- Chapter 24: **100%**
-- Chapter 25: **100%**
-- Chapter 26: **100%**
-- Chapter 27: **100%**
-- Chapter 28: **100%**
-- Chapter 29: **100%**
-- Chapter 30: **100%**
-- Chapter 31: **100%**
-- Chapter 32: **100%**
-- Chapter 33: **100%**
-- Chapter 34: **100%**
-- Chapter 35: **100%**
-- Chapter 36: **100%**
-- Chapter 37: **100%**
-- Chapter 38: **100%**
-- Chapter 39: **100%**
-- Chapter 40: **100%**
+- Chapters 1–12: **100%**
+- Chapters 13–40: **100% structural/commercial pass; deep scene expansion pending**
+
+## Editorial production blocks
+- Structural continuity: **98%**
+- Mystery / clue continuity: **97%**
+- Character continuity: **95%**
+- Pacing: **90%**
+- Prose / literary polish: **55%**
+- Commercial-length readiness: **65%** (production progress, not a measured percentage of the 70–100k target)
+- Deep scene-level expansion: **24%** (12 of 40 chapters completed in the current deep-expansion program)
 
 ## Next action
-Continue the deep scene-level expansion through Chapters 2–6, preserving canon and avoiding filler. After Batch 01 is complete, re-measure the full manuscript and run a targeted continuity/repetition pass before the next batch.
+Run the next measurement/audit gate, then continue Batch 03 on Chapters 13–18 with the same scene-level expansion standard.

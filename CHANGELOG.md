@@ -1,3 +1,10 @@
+## 2026-09-19 — Block 24.8 and Block 24 completed
+- Completed Block 24.8 Final-act consequence depth at **100%**.
+- Chapter 38 now includes the continuing obligation to preserve all PR-06 materials for review, including evidence that may expose Alexei's own responsibility.
+- This closes Block 24 Controlled Expansion / Refinement at **100%** without canon changes or artificial padding.
+- GitHub checkpoints: Chapter 38 a3f695f; Block 24 report 316a430; PROJECT_STATE 708cad2.
+- Next: **Block 25 — Final Editorial Pass**.
+
 ## 2026-09-19 — Block 24.7 Investigation atmosphere / locations completed
 - Completed Block 24.7 at **100%**; overall Block 24 advances to **87%**.
 - Expanded Chapter 4 with concrete environmental and spatial detail inside the existing café investigation scene.

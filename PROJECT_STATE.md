@@ -16,13 +16,13 @@ Publishing package: **0%**
 ## Block 27 — Publishing Preparation
 - 27.1 Publication format / specification audit: **100%**
 - 27.2 Title / author / edition metadata audit: **100%**
-- 27.3 Manuscript package structure: **0%**
+- 27.3 Manuscript package structure: **100%**
 - 27.4 Blurb / synopsis / pitch package: **0%**
 - 27.5 Author / publication metadata completion: **0%** (requires confirmed owner metadata where applicable)
 - 27.6 Final publication copy preparation: **0%**
 - 27.7 Publishing package integration: **0%**
 - 27.8 Publishing preparation final QA: **0%**
-- Block 27 overall: **25%**
+- Block 27 overall: **37.5%**
 
 ## Story Architecture Sub-blocks
 - 1.1 Core concept: **100%**
@@ -170,4 +170,4 @@ Historical baseline before deep-expansion batches: 15,023 words.
 **COMPLETE — Chapters 21–30 final editorial pass: 100%.** One concrete duplicate aftermath scene was removed from Chapter 24; remaining chapters in the range required no justified prose correction. No canon change or artificial padding.
 
 ## Next action
-**Block 27.3 — Manuscript package structure.**
+**Block 27.4 — Blurb / synopsis / pitch package.**

@@ -13,7 +13,7 @@ Last verified repository-wide count before deep-expansion batches: **15,023 word
 - Pacing — **90%**
 - Prose / literary polish — **55%**
 - Commercial-length readiness — **65%**
-- Deep scene-level expansion — **90%** (36/40 chapters)
+- Deep scene-level expansion — **100%** (40/40 chapters)
 
 ## Deep commercial expansion
 ### Batch 01 — Chapters 1–6
@@ -62,3 +62,16 @@ No locked canon was changed.
 6. Repetition and generic-thriller cleanup.
 7. Final prose line edit.
 8. Publishing package.
+
+### Batch 07 — Chapters 37–40
+**100% complete.**
+Strengthened:
+- consequences and accountability after publication;
+- witness process and Sofia's independent agency;
+- Alexei's post-crisis decision framework;
+- uncertainty around the final 08:16 message;
+- ending's distinction between prediction and choice.
+
+## Deep expansion gate
+All 40 chapters now have scene-level commercial expansion coverage: **100%**.
+The manuscript is still not publication-ready and still requires a fresh full-manuscript word recount, continuity/repetition audit, dialogue/emotional texture pass, prose line edit, and publishing package.

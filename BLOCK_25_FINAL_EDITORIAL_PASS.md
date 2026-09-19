@@ -53,3 +53,18 @@ Next: **25.4 — Chapters 31–40 final editorial pass.**
 ## Progress
 **25.4 complete.**
 Next: **25.5 — Full manuscript language consistency.**
+
+
+## 25.5 — Full manuscript language consistency
+**100% COMPLETE**
+- Completed a full Prologue + Chapters 01–40 language-consistency audit in manuscript order.
+- Checked canonical names and recurring forms (Alexei Morozov, Elena Varga, Sofia Morozova, Daniel Weiss, Viktor Hale, Mark Reid, Thomas Rain), project terminology (PR-06), the M designation, chapter headings and Day/date labels.
+- Checked for obvious spelling/transliteration variants in recurring character and project vocabulary; no conflicting canonical variant requiring a manuscript correction was found.
+- Chapter title format remains consistent across the manuscript: # ГЛАВА N — ...; the Prologue remains # ПРОЛОГ — ....
+- The final chapter structure and intentional 08:16 wording remain intact; no accidental re-identification of the sender was introduced.
+- No canon change, no artificial rewriting, and no word-count padding were introduced.
+- Editorial decision: no manuscript prose change required in 25.5.
+
+## Progress
+**25.5 complete.**
+Next: **25.6 — Dialogue / exposition final pass.**

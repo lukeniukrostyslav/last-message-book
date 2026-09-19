@@ -1,3 +1,12 @@
+## 2026-09-19 — Block 25.5 Full manuscript language consistency completed
+- Audited Prologue + Chapters 01–40 in manuscript order for recurring language consistency.
+- Checked canonical character names and recurring forms, PR-06 terminology, the M designation, chapter-heading format, Day/date labels and obvious spelling/transliteration variants.
+- No conflicting canonical variant requiring a manuscript correction was found.
+- Preserved the intentional 08:16 unidentified-message treatment and did not alter canon.
+- No artificial rewriting or word-count padding introduced.
+- Block 25.5 — **100% COMPLETE**.
+- Next: **Block 25.6 — Dialogue / exposition final pass**.
+
 ## 2026-09-19 — Block 25.4 completed
 - Completed **25.4 Chapters 31–40 final editorial pass** at **100%**.
 - Removed concrete duplicate/redundant expansion scenes from Chapters 32, 33, 37, 38 and 39 where they repeated adjacent material without adding a distinct narrative function.

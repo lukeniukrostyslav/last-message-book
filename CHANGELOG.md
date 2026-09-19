@@ -17,3 +17,10 @@
 - Strengthened the final-message uncertainty and ending.
 - Batch 07: **100%**.
 - Deep scene-level expansion coverage: **40/40 = 100%**.
+
+## 2026-09-19 — Corrective quality-expansion pass completed
+- Substantively reviewed and expanded only the previously uncompleted chapters: **01, 02, 04, 05, 06, 08, 09, 14, 15**.
+- Added character-driven decision points, evidence discipline, memory-vs-record separation, trust boundaries, independent verification, and consequence-focused scenes.
+- Chapters already substantively expanded in prior work were intentionally left untouched.
+- Corrective set: **9/9 = 100%**.
+- Full manuscript remeasurement after this pass: **pending**.

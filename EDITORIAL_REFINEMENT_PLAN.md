@@ -59,7 +59,7 @@ Status: **25%** — planning complete enough to begin controlled prose expansion
 - stronger transitions;
 - terminology consistency.
 
-Status: **10%** — quantitative screening completed; full manual line edit remains.
+Status: **12%** — quantitative screening completed; targeted manual diversification has started; full manual line edit remains.
 
 ### Pass 6 — Publishing package
 Status: **0%**.

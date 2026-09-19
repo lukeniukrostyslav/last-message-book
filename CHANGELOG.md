@@ -1,3 +1,12 @@
+## 2026-09-19 — Block 27.5 Author / Publication Metadata Completion completed
+- Prepared the repository-side publication metadata schema.
+- Confirmed title, genre, Russian language, manuscript scope and latest verified 32,204-word measurement.
+- Explicitly left author/publication identity, publisher, ISBN, date, price, territories and external identifiers unassigned rather than inventing values.
+- Added BLOCK_27_5_AUTHOR_PUBLICATION_METADATA_COMPLETION.md.
+- Block 27.5 — **100% COMPLETE** for repository-side preparation.
+- Block 27 overall: **62.5%**.
+- Next: **Block 27.6 — Final publication copy preparation**.
+
 ## 2026-09-19 — Block 27.4 Blurb / Synopsis / Pitch Package completed
 - Created spoiler-light short blurb, spoiler-inclusive full synopsis and pitch/positioning copy from locked story architecture.
 - Preserved the resolved Book 1 mechanism, Alexei's accountability arc and controlled 08:16 sequel thread.

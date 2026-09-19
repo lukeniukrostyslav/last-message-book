@@ -56,3 +56,5 @@ Manual prose diversification: **not yet complete**
 - Autonomous batch 25–30: 25 low-risk visual/reaction repetitions diversified; canon and plot unchanged.
 
 - Chapter 18: two low-risk visual-action repetitions diversified; canon and plot unchanged.
+
+- Chapter 16: four low-risk visual-action repetitions diversified; canon and plot unchanged.

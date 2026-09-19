@@ -1,3 +1,14 @@
+## 2026-09-19 — Block 23.10 Character Continuity Recheck completed
+- Rechecked character identity, knowledge timing, motivations, relationships, agency, consequences and bounded witness knowledge after the 23.2–23.9 expansion sequence.
+- Revalidated Alexei, Elena, Daniel, Sofia, Hale, Mark Reid, Thomas Rain and M against the locked character canon.
+- Confirmed Sofia's independent agency, Thomas's bounded testimony, Mark's bounded firsthand knowledge, Elena's independent-investigator role, Daniel's verification role and M's automated/non-human status.
+- No manuscript character-continuity defect requiring correction was found.
+- No canon change was required.
+- Added BLOCK_23_10_CHARACTER_CONTINUITY_RECHECK.md.
+- Block 23.10 — **100% COMPLETE**.
+- GitHub checkpoints: audit 1c77471; PROJECT_STATE 5d2a3b6.
+- Next: **Block 23.11 — Pacing Recheck**.
+
 # CHANGELOG
 
 ## 2026-09-19 — Block 23.9 Mystery / Clue Recheck completed

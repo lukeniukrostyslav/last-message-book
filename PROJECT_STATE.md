@@ -93,6 +93,7 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 - Quality expansion Batch 03 — Chapter 07: **100%**
 - Quality expansion Batch 04 — Chapter 10: **100%**
 - Quality expansion Batch 05 — Ch11–12, Ch20, Ch28–30, Ch34–37: **100%**
+- Quality expansion Batch 06 — Ch13, Ch17–19, Ch21, Ch38–40: **100%**
 - Quality expansion Batch 01 — Chapters 7–12: **100%**
 
 ## Length gate

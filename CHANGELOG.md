@@ -35,17 +35,20 @@
 - Verified baseline manuscript size: **15,023 words**.
 - Confirmed the manuscript is structurally complete but still substantially shorter than the planned 70–100k commercial range.
 
-## 2026-09-19 — Deep commercial expansion Batch 01 started
-- Began a new scene-level expansion pass for Chapters 1–6.
-- Expanded Chapter 1 with concrete investigative procedure, sensory grounding, internal conflict and clearer fact-vs-hypothesis discipline.
-- Preserved locked canon and did not reveal the M mechanism early.
-- Batch 01 progress: **17%** (Chapter 1 complete; Chapters 2–6 pending).
-- Last verified pre-expansion manuscript baseline remains **15,023 words**; full recount will be performed after the batch stabilizes.
-
-
 ## 2026-09-19 — Deep commercial expansion Batch 01 completed
 - Completed scene-level expansion of Chapters 1–6.
 - Strengthened investigative procedure, fact-vs-hypothesis discipline, internal conflict, dialogue texture and sensory grounding.
-- Preserved locked canon and did not reveal later mechanisms early.
-- Batch 01 progress: **100%**.
-- Full manuscript recount is now the next measurement gate before Batch 02.
+- Preserved locked canon.
+- Full recount remains pending.
+
+## 2026-09-19 — Deep commercial expansion Batch 02 completed
+- Completed scene-level expansion of Chapters 7–12.
+- Added forensic verification of the contradictory access record.
+- Strengthened Elena's independent motivation and source-handling.
+- Added route-change experiment and explicit decision logging.
+- Expanded archive/deletion mechanics while separating evidence from interpretation.
+- Expanded authorship investigation using document version history.
+- Expanded Layer 3-B tracing and preserved uncertainty around M's instructions.
+- Batch 02: **100%**.
+- Deep scene-level expansion coverage: **12/40 chapters = 30%**.
+- No new exact manuscript word count claimed until the full recount is completed.

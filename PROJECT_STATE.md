@@ -5,6 +5,7 @@ Last updated: 2026-09-19
 ## Overall
 Foundation: **100%**
 Story architecture: **100%**
+Chapter outline: **100%**
 Manuscript: **0%**
 Editorial system: **0%**
 Publishing package: **0%**

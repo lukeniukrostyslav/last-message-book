@@ -35,7 +35,7 @@ Manual prose diversification: **not yet complete**
 
 ## Targeted manual diversification — 2026-09-19
 - Chapter 39 received two low-risk substitutions of repeated visual-action phrasing.
-- Updated measured screening count for «посмотрел»: **165**.
+- Updated measured screening count for «посмотрел»: **140**.
 - Broader manual diversification remains in progress; no canon or plot change.
 
 - Chapter 38: two low-risk visual-action repetitions diversified; canon and plot unchanged.
@@ -47,3 +47,8 @@ Manual prose diversification: **not yet complete**
 - Chapter 34: three low-risk visual-action repetitions diversified; canon and plot unchanged.
 
 - Chapter 35: three low-risk visual-action repetitions diversified; canon and plot unchanged.
+
+- Chapter 24: ten low-risk visual-action repetitions diversified; canon and plot unchanged.
+- Chapter 31: six low-risk visual-action repetitions diversified; canon and plot unchanged.
+- Chapter 33: four low-risk visual-action repetitions diversified; canon and plot unchanged.
+- Chapter 36: five low-risk visual-action repetitions diversified; canon and plot unchanged.

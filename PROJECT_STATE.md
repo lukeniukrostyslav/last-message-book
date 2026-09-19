@@ -59,7 +59,7 @@ Historical baseline before deep-expansion batches: 15,023 words.
 - Prose / literary polish: **100%**
 - Commercial-length readiness: **100%** (readiness gate complete; manuscript itself is NOT yet 70–100k words)
 - Deep scene-level expansion: **100%** (40 of 40 chapters)
-- Refinement pass: **100% through Block 23.13; next is fresh measurement**
+- Refinement pass: **100% through Block 23.13; Block 24 complete; Block 25 in progress**
 - Full manual line edit: **100%**
 - Measurement gate: **100%**
 - Quality expansion planning: **100%**
@@ -155,14 +155,17 @@ Historical baseline before deep-expansion batches: 15,023 words.
 ### Block 23.14
 **COMPLETE — Fresh Word Count / Commercial Assessment: 100%.** The latest verified repository measurement remains 32,204 words. No unsupported new count was invented. Against the 70,000–100,000 target, the verified gaps remain 37,796 and 67,796 words. Commercial-length completion remains NO.
 
+### Block 25.3
+**COMPLETE — Chapters 21–30 final editorial pass: 100%.** One concrete duplicate aftermath scene was removed from Chapter 24; remaining chapters in the range required no justified prose correction. No canon change or artificial padding.
+
 ## Next action
-**Block 25.3 — Chapters 21–30 final editorial pass.**
+**Block 25.4 — Chapters 31–40 final editorial pass.**
 
 ### Block 25
-**IN PROGRESS — 25%.**
+**IN PROGRESS — 37.5%.**
 - 25.1 Chapters 1–10 final editorial pass: **100%**.
 - 25.2 Chapters 11–20 final editorial pass: **100%**.
-- 25.3 Chapters 21–30 final editorial pass: **0%**.
+- 25.3 Chapters 21–30 final editorial pass: **100%**.
 - 25.4 Chapters 31–40 final editorial pass: **0%**.
 - 25.5 Full manuscript language consistency: **0%**.
 - 25.6 Dialogue / exposition final pass: **0%**.

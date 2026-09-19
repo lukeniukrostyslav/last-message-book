@@ -99,7 +99,7 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 - Corrective quality-expansion pass — selected remaining chapters (01, 02, 04, 05, 06, 08, 09, 14, 15): **100%** (9/9 chapters substantively reviewed and expanded).
 - Chapters already substantively expanded outside this corrective set were not re-edited.
 - New full-manuscript word count: **not yet measured** after this pass.
-
+- **GitHub checkpoint saved and verified on main after the corrective 9-chapter pass.**
 
 ## Length gate
 - Measured current manuscript: **20,620 words**

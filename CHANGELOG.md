@@ -41,3 +41,11 @@
 - Preserved locked canon and did not reveal the M mechanism early.
 - Batch 01 progress: **17%** (Chapter 1 complete; Chapters 2–6 pending).
 - Last verified pre-expansion manuscript baseline remains **15,023 words**; full recount will be performed after the batch stabilizes.
+
+
+## 2026-09-19 — Deep commercial expansion Batch 01 completed
+- Completed scene-level expansion of Chapters 1–6.
+- Strengthened investigative procedure, fact-vs-hypothesis discipline, internal conflict, dialogue texture and sensory grounding.
+- Preserved locked canon and did not reveal later mechanisms early.
+- Batch 01 progress: **100%**.
+- Full manuscript recount is now the next measurement gate before Batch 02.

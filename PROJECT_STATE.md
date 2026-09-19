@@ -7,7 +7,7 @@ Foundation: **100%**
 Story architecture: **100%**
 Chapter outline: **100%**
 Manuscript: **100%**
-Editorial system: **10%**
+Editorial system: **55%**
 Publishing package: **0%**
 
 ## Current phase
@@ -34,7 +34,7 @@ First manuscript draft complete: **100%**. Structural completion is not the same
 The architecture is now the working canon. Future manuscript changes must be checked against it.
 
 ## Next action
-Run the full editorial pass: exact word-count measurement, scene expansion, continuity audit, clue/twist verification, prose polish, and commercial-length review.
+Expand Chapters 37–40, complete the ending pass, measure exact manuscript word count, then run the full continuity/clue/prose/repetition audit and publishing package.
 
 
 ## Manuscript progress

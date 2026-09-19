@@ -1,78 +1,54 @@
 # EDITORIAL_AUDIT.md
 
 ## Status
+The 40-chapter architecture and first complete ending pass are finished. The manuscript remains below the planned 70–100k commercial target and is not publication-ready.
 
-The chapter-by-chapter commercial expansion pass is complete through Chapter 40. A first complete ending pass is complete. The manuscript remains far below the planned 70–100k commercial target and is not publication-ready.
-
-### Exact manuscript measurement
-The last repository-wide verified count of the Prologue plus Chapters 1–40 was performed on 2026-09-19 using a consistent word-like tokenization rule: **15,023 words**. Chapter 1 has since received a new scene-level expansion, so this number is now the last verified pre-expansion baseline rather than the current total.
+### Measurement
+Last verified repository-wide count before the deep-expansion batches: **15,023 words**. This is a historical baseline, not the current total. A fresh full recount is still required before using a new exact word count.
 
 ## Current findings
+- Structural continuity — **98%**
+- Mystery / clue continuity — **97%**
+- Character continuity — **95%**
+- Pacing — **90%**
+- Prose / literary polish — **55%**
+- Commercial-length readiness — **65%** (production progress, not measured target completion)
 
-### 1. Structural continuity — 98%
-The 40-chapter architecture remains coherent.
-- Day 30 remains the archive deletion window.
-- M remains an automated protocol, not supernatural time travel.
-- The future-looking photograph remains manufactured.
-- Alexei's responsibility and independent choice remain intact.
-- Evidence is consistently separated from interpretation.
-
-### 2. Mystery / clue continuity — 97%
-The main explanations remain consistent:
-- future-looking photograph is manufactured;
-- M cannot literally see the future;
-- Alexei participated in PR-06;
-- Day 30 concerns deletion;
-- evidence requires provenance and human accountability.
-
-### 3. Character continuity — 95%
-Alexei's arc remains participant -> accountable witness -> independent actor. Sofia's agency is preserved. Elena functions as investigator/publisher, Daniel as technical verifier, and Thomas as human-cost witness.
-
-### 4. Pacing — 90%
-The existing expanded manuscript has strong structural pacing. The new deep-expansion pass is intended to add scene-level breathing room without weakening tension.
-
-### 5. Prose / literary polish — 55%
-The manuscript has improved physical grounding, dialogue, internal conflict and evidence language, but a full line edit remains outstanding.
-
-### 6. Commercial-length readiness — 65%
-The prior commercial expansion pass through Chapter 40 is complete. This percentage is production progress, not a measured percentage of the 70–100k target.
-
-## Deep commercial expansion pass
-
+## Deep commercial expansion
 ### Batch 01 — Chapters 1–6
-- Overall batch: **100%**
-- Chapter 1: **100%**
-- Chapter 2: **100%**
-- Chapter 3: **100%**
-- Chapter 4: **100%**
-- Chapter 5: **100%**
-- Chapter 6: **100%**
+**100% complete.**
+Scene-level expansion added investigative procedure, sensory grounding, internal conflict, dialogue texture and evidence discipline.
 
-### Batch 01 result
-Chapters 1–6 received scene-level expansion focused on concrete investigative procedure, physical grounding, internal conflict, evidence discipline and dialogue texture without changing locked canon.
+### Batch 02 — Chapters 7–12
+**100% complete.**
+Added:
+- forensic verification around the contradictory access record;
+- Elena's independent motivation and source-handling;
+- route-change experiment and decision logging;
+- archive deletion mechanics and evidence boundaries;
+- authorship/version-history investigation;
+- Layer 3-B dependency tracing and caution around M's instructions.
 
-### Chapter 1 result
-Chapter 1 received a scene-level expansion focused on:
-- concrete preservation and verification procedure;
-- physical/sensory grounding;
-- Alexei's professional method;
-- distinction between observed facts and hypotheses;
-- stronger internal conflict around reopening PR-06;
-- additional tension without changing canon.
+Canon remains unchanged: M is automated, the future-looking photograph is manufactured, Day 30 is an archive deletion window, and Alexei's choices remain his own.
+
+## Current production coverage
+Deep scene-level expansion completed: **12 / 40 chapters = 30% chapter coverage**.
+
+This is a coverage metric only; it is not a claim that the book is 30% of the way to the 70–100k word target.
 
 ## Editorial gate
 - structurally complete: YES
 - first draft complete: YES
 - publication-ready: NO
 - commercially length-complete: NO
-- fully edited: NO
+- fully line-edited: NO
 - deep scene-level expansion: IN PROGRESS
 
 ## Next production steps
-1. Complete deep expansion of Chapters 2–6.
-2. Re-measure the full manuscript.
-3. Run continuity and clue/twist audits across the expanded manuscript.
-4. Strengthen dialogue and emotional texture.
-5. Remove repetition and generic thriller phrasing.
-6. Perform final prose line edit.
-7. Build publishing package.
+1. Fresh full-manuscript word recount.
+2. Continuity/repetition audit after Batches 01–02.
+3. Batch 03 — Chapters 13–18.
+4. Dialogue/emotional texture pass.
+5. Repetition and generic-thriller phrasing cleanup.
+6. Final prose line edit.
+7. Publishing package.

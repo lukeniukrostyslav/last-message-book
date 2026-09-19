@@ -185,3 +185,13 @@
 - Added BLOCK_23_2_PROLOGUE_CH01_10.md.
 - Block 23.2 — **100% COMPLETE**.
 - GitHub checkpoint saved on main.
+
+
+## 2026-09-19 — Block 23.3 Chapters 11–20 completed
+- Expanded Chapters 11–20 in manuscript order.
+- Deepened PR-06 history, Layer 3-B, Sofia's agency, Elena's evidence trail, Alexei's accountability, M's protocol mechanics, the future-knowledge boundary and the photograph payoff.
+- No canon change was introduced.
+- Added BLOCK_23_3_CHAPTERS_11_20.md.
+- Exact full-manuscript recount is deferred to Block 23.6.
+- Block 23.3 — **100% COMPLETE**.
+- GitHub checkpoint saved on main.

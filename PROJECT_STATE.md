@@ -30,7 +30,7 @@ Publishing package: **0%**
 ## Manuscript
 First manuscript draft complete: **100%**. Structural completion is not commercial-length completion.
 
-Fresh full-manuscript measurement completed 2026-09-19: **20,620 words** across Prologue + Chapters 1–40.
+Fresh full-manuscript measurement completed 2026-09-19: **26,890 words** across Prologue + Chapters 1–40.
 
 Historical baseline before deep-expansion batches: 15,023 words. Measured increase: **+5,597 words (+37.2%)**.
 
@@ -98,15 +98,15 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 - Quality expansion Batch 01 — Chapters 7–12: **100%**
 - Corrective quality-expansion pass — selected remaining chapters (01, 02, 04, 05, 06, 08, 09, 14, 15): **100%** (9/9 chapters substantively reviewed and expanded).
 - Chapters already substantively expanded outside this corrective set were not re-edited.
-- New full-manuscript word count: **not yet measured** after this pass.
+- New full-manuscript word count after the corrective pass: **26,890 words**, verified in Block 22.
 - Block 12 production checkpoint: **COMPLETE — Prologue + Chapters 01–40 reviewed for substantive prose expansion.** Prologue was the final missing prose-expansion surface and was saved in commit 97716ec.
 - **GitHub checkpoint saved and verified on main after the corrective 9-chapter pass.**
 
 ## Length gate
-- Measured current manuscript: **20,620 words**
+- Measured current manuscript: **26,890 words**
 - Planned commercial target: **70,000–100,000 words**
-- Gap to 70k: **49,380 words**
-- Gap to 100k: **79,380 words**
+- Gap to 70k: **43,110 words**
+- Gap to 100k: **73,110 words**
 - Commercially length-complete: **NO**
 
 ## Block 13 checkpoint
@@ -136,8 +136,11 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 ## Block 21 checkpoint
 **COMPLETE — Final Canon Verification: 100%.** Locked canon, timeline, twist architecture, character canon, chapter outline and Prologue → Chapter 40 final-act chronology were verified. No canon change was required. Audit saved in FINAL_CANON_VERIFICATION.md.
 
+## Block 22 checkpoint
+**COMPLETE — Final Word Count Gate: 100%.** Fresh repository-wide measurement recorded 26,890 words across Prologue + Chapters 01–40. Gap to 70k: 43,110 words; gap to 100k: 73,110 words. Commercial-length completion remains **NO**.
+
 ## Next action
-**Block 22 — Final Word Count Gate: 0%.**
+**Block 23 — Publishing Package: 0%.**
 
 ## Final Canon Verification checkpoint refresh
 **Block 21 remains 100% COMPLETE.** Final canon verification is locked; no canon change is required. GitHub main checkpoint refreshed 2026-09-19.

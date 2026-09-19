@@ -38,3 +38,20 @@ Former executive connected to the predictive-risk project. Publicly respectable,
 
 ## Character rule
 These facts are now working canon. Changes require an explicit continuity update.
+
+
+### Mark Reid
+Former project insider and witness to the buried PR-06 history. He agrees to provide evidence about the old authorization and parameter change, then disappears before the group can establish why. His testimony remains limited to what he personally witnessed.
+
+### Thomas Rain
+Former subject of the predictive-risk project and a direct human consequence of its behavioural intervention. He kept contemporaneous notes documenting calls, route changes and his own reactions. He refuses to let Alexei or the investigation turn his experience into a simplified narrative.
+
+## Character continuity rules
+- Alexei's knowledge grows through verified evidence and his own recovered memories; he must not know later revelations before their narrative discovery.
+- Elena remains an independent investigator, not an omniscient guide or hidden controller.
+- Daniel remains the technical verification partner and does not become the source of unverified conclusions.
+- Sofia retains independent agency; Alexei may protect her, but does not decide her participation for her.
+- Hale can apply pressure and possess project knowledge, but his claims remain claims until independently verified.
+- Mark's witness knowledge is limited to his own experience and records.
+- Thomas's account is personal testimony and contemporaneous documentation, not proof of every later event.
+- M does not replace human character agency; its messages create conditions and pressure, while characters still make consequential choices.

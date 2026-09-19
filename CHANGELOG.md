@@ -1,3 +1,12 @@
+## 2026-09-19 — Block 27.4 Blurb / Synopsis / Pitch Package completed
+- Created spoiler-light short blurb, spoiler-inclusive full synopsis and pitch/positioning copy from locked story architecture.
+- Preserved the resolved Book 1 mechanism, Alexei's accountability arc and controlled 08:16 sequel thread.
+- No new plot event, supernatural mechanism or canon change introduced.
+- Added BLOCK_27_4_BLURB_SYNOPSIS_PITCH_PACKAGE.md.
+- Block 27.4 — **100% COMPLETE**.
+- Block 27 overall: **50%**.
+- Next: **Block 27.5 — Author / publication metadata completion**.
+
 ## 2026-09-19 — Block 27.3 Manuscript Package Structure completed
 - Defined the release-package layers for manuscript, metadata, marketing copy, QA and manifest/archive records.
 - Locked source-of-truth and release-integrity rules without changing manuscript canon.

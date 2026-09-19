@@ -1,41 +1,25 @@
 # STORY BIBLE
 
-## 1. Core promise
-The reader should constantly question:
-- Who is sending the messages?
-- How can a photograph show tomorrow?
-- Why was the protagonist chosen?
-- Is the warning intended to save him or manipulate him?
-- What does the evidence reveal about the protagonist's own past?
+## Core promise
+The reader should constantly question who controls the evidence and whether Alexei can trust his own understanding of his past.
 
-## 2. Tone
-- tense
-- intelligent
-- cinematic
-- emotionally grounded
-- mysterious without arbitrary magic
-- technology should support the mystery rather than replace character drama
+## Tone
+Tense, intelligent, cinematic, emotionally grounded. Technology supports the mystery; it does not replace character drama.
 
-## 3. Reader experience
-Short, purposeful chapters. Each chapter should do at least one of:
-- reveal a meaningful clue
-- change the protagonist's understanding
-- deepen a relationship/conflict
-- create a new question
-- force a consequential decision
+## Reader experience
+Short purposeful chapters. Each chapter must reveal a clue, change understanding, deepen conflict, create a consequential question, or force a decision.
 
-Avoid filler.
+## Mystery contract
+Every major mystery receives a real explanation in Book 1 unless deliberately reserved for a sequel.
 
-## 4. Mystery contract
-Every major mystery introduced must eventually receive:
-- a real explanation,
-- a deliberate unresolved thread if reserved for a sequel,
-- or an explicit reason it cannot be known.
+## Technology rule
+No magical technology. The thriller may use realistic concepts such as delayed transmission, metadata manipulation, behavioural modelling, archived datasets, access controls and staged evidence.
 
-No random last-minute explanation.
+## Character rule
+Alexei's personal arc is inseparable from the mystery: he must move from "evidence proves reality" toward understanding that evidence can be engineered and that his own past choices matter.
 
-## 5. Working premise
-An ordinary man receives a 30-day warning and then evidence apparently originating from the future. The investigation gradually destabilizes his understanding of events and of himself.
+## Commercial structure
+The first novel must stand alone. A sequel hook may remain, but Book 1 must answer its central mystery.
 
-## 6. Canon status
-Everything in this document remains provisional until the architecture phase is completed and marked LOCKED in CANON_LOCK.md.
+## Canon
+The current architecture is LOCKED WORKING CANON. It may be revised deliberately, never accidentally.

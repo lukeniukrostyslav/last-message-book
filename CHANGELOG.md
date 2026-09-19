@@ -33,3 +33,12 @@
 - Expanded the public disclosure sequence and preserved uncertainty around what the archive can and cannot prove.
 - Updated editorial audit: structural continuity 97%, mystery/clue continuity 96%, character continuity 93%, pacing 86%, prose/literary polish 45%, commercial-length production progress 55%.
 - Next production pass: Chapters 37–40 and complete ending pass.
+
+
+## 2026-09-19 — Commercial expansion Chapters 37–40
+- Expanded Chapters 37–40 and strengthened the ending without changing locked canon.
+- Added concrete consequences, investigation context, family conflict, accountability, and independent agency.
+- Strengthened the distinction between a mysterious message and evidence of M's continued operation.
+- Completed the planned chapter-by-chapter commercial expansion pass through Chapter 40.
+- Updated editorial audit: structural continuity 98%, mystery/clue continuity 97%, character continuity 95%, pacing 90%, prose/literary polish 55%, commercial-length production progress 65%.
+- Next: complete ending pass, exact word-count measurement, full final audit, prose/repetition cleanup, publishing package.

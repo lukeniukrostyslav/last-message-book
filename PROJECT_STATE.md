@@ -55,7 +55,7 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 - Structural continuity: **100%**
 - Mystery / clue continuity: **100%**
 - Character continuity: **100%**
-- Pacing: **90%**
+- Pacing: **100%**
 - Prose / literary polish: **55%**
 - Commercial-length readiness: **65%** (production progress, not percentage of target word count)
 - Deep scene-level expansion: **100%** (40 of 40 chapters)
@@ -118,5 +118,8 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 ## Block 15 checkpoint
 **COMPLETE — Character Continuity: 100%.** Prologue → Chapters 01–40 were audited for character identity, knowledge timing, motivation, relationships, agency and consequences. Mark Reid and Thomas Rain were added to character canon because both have continuing named narrative functions. Audit saved in CHARACTER_CONTINUITY_AUDIT.md.
 
+## Block 16 checkpoint
+**COMPLETE — Pacing: 100%.** Prologue → Chapters 01–40 were audited for escalation, chapter transitions, revelation spacing, final-act acceleration and aftermath recovery. Two exact duplicate scenes that interrupted momentum were removed from Chapters 27 and 31. Audit saved in PACING_AUDIT.md.
+
 ## Next action
-**Block 16 — Pacing: 90%.** Continue in manuscript order; verify escalation, scene pressure, chapter transitions, revelation spacing and recovery beats, then save each production checkpoint to GitHub.
+**Block 17 — Prose / Literary Polish: 55%.** Continue in manuscript order; refine voice, rhythm, sentence variety, dialogue texture and literary finish without changing locked canon.

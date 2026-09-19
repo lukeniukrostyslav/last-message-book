@@ -168,6 +168,6 @@ Historical baseline before deep-expansion batches: 15,023 words.
 - 25.3 Chapters 21–30 final editorial pass: **100%**.
 - 25.4 Chapters 31–40 final editorial pass: **100%**.
 - 25.5 Full manuscript language consistency: **100%**.
-- 25.6 Dialogue / exposition final pass: **0%**.
+- 25.6 Dialogue / exposition final pass: **100%**.
 - 25.7 Ending / aftermath final pass: **0%**.
 - 25.8 Final editorial integration: **0%**.

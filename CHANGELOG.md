@@ -1,3 +1,11 @@
+## 2026-09-19 — Block 25.2 completed
+- Completed **25.2 Chapters 11–20 final editorial pass** at **100%**.
+- Reviewed prose clarity, rhythm, dialogue, exposition, technical terminology, evidence boundaries, M mechanism consistency and repetition.
+- No justified prose correction was found; no artificial rewriting or padding introduced.
+- Block 25 report checkpoint: `644f28e3003158ab437fb72148d7a521693f202f`.
+- PROJECT_STATE checkpoint: `3a0c88f3018b3810452c319c62cc473f201bbd80`.
+- Next: **25.3 Chapters 21–30 final editorial pass**.
+
 ## 2026-09-19 — Block 25.1 started and completed
 - Started **Block 25 — Final Editorial Pass**.
 - Completed **25.1 Chapters 1–10** at **100%**.

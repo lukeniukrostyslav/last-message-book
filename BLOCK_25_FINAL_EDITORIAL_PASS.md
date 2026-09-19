@@ -68,3 +68,18 @@ Next: **25.5 — Full manuscript language consistency.**
 ## Progress
 **25.5 complete.**
 Next: **25.6 — Dialogue / exposition final pass.**
+
+
+## 25.6 — Dialogue / exposition final pass
+**100% COMPLETE**
+- Reviewed dialogue/exposition balance across Prologue + Chapters 01–40 in manuscript order.
+- Verified the manuscript-wide dialogue convention: spoken lines consistently use the em dash; no competing hyphen-led dialogue convention was found in the audited text.
+- Checked dialogue density against scene purpose: investigation and confrontation chapters carry denser dialogue; evidence-heavy and final-aftermath chapters intentionally use more controlled exposition and silence.
+- Checked that technical explanation is generally attached to investigation, evidence, or character decision rather than functioning as detached exposition.
+- Rechecked the late-act restraint in Chapters 35–40 so exposition does not over-explain the already resolved M mechanism or the deliberately unidentified 08:16 message.
+- No dialogue/exposition correction was justified; no artificial rewriting or padding introduced.
+- **Editorial decision: no manuscript prose change required in 25.6.**
+
+## Progress
+**25.6 complete.**
+Next: **25.7 — Ending / aftermath final pass.**

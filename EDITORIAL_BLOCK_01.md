@@ -13,10 +13,10 @@ Strengthen the opening contract of the novel: the warning, 30-day clock, future-
 - No reveal may depend on impossible time travel.
 
 ## Pass result
-Status: **IN PROGRESS**
+Status: **IN PROGRESS — opening chapters revised**
 Structural target: **100%**
-Prose expansion: **0%**
-Continuity verification: **50%**
+Prose expansion: **55%**
+Continuity verification: **75%**
 
 ## Required rewrite targets
 1. Expand sensory detail around the first message.

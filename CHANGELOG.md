@@ -1,3 +1,10 @@
+## 2026-09-19 — Block 29.7 completed; 29.8 gate recorded
+- Completed 29.6 Manifest / Source Revision QA at 100%.
+- Completed 29.7 Final Consistency / Release Surface Audit at 100%.
+- Recorded 29.8 Final Release QA Gate as pending because the fresh complete manuscript word count has not yet been safely measured.
+- No new word count invented; latest verified measurement remains 32,204 words.
+- Publication-ready status remains **NO**.
+
 ## 2026-09-19 — Block 28.8 Publishing Package Integration QA completed
 - Verified the six-layer publishing package and the complete reader-facing manuscript assembly: title page + Prologue + Chapters 01–40.
 - Verified development-only section labels were removed from package copies while root manuscript sources remained untouched.

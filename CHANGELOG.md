@@ -1,3 +1,11 @@
+## 2026-09-19 — Block 24.7 Investigation atmosphere / locations completed
+- Completed Block 24.7 at **100%**; overall Block 24 advances to **87%**.
+- Expanded Chapter 4 with concrete environmental and spatial detail inside the existing café investigation scene.
+- The location now affects observation and investigative method without becoming an unsupported plot device.
+- No canon change, no filler.
+- GitHub checkpoints: Chapter 4 b0569d0; Block 24 report b279ba1; PROJECT_STATE 1e59f32.
+- Next: **Block 24.8 — Final-act consequence depth**.
+
 ## 2026-09-19 — Block 24.6 Hale / institutional pressure depth completed
 - Completed Block 24.6 at **100%**; overall Block 24 advances to **75%**.
 - Expanded Chapter 25 with a formal institutional-pressure sequence based on a confidentiality demand and source classification.

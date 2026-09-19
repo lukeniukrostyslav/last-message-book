@@ -11,7 +11,7 @@ Editorial system: **68%**
 Publishing package: **0%**
 
 ## Current phase
-**PHASE 3 — FIRST MANUSCRIPT DRAFT COMPLETE**
+**PHASE 4 — SCENE-LEVEL COMMERCIAL EXPANSION**
 
 ## Story Architecture Sub-blocks
 - 1.1 Core concept: **100%**
@@ -30,12 +30,16 @@ Publishing package: **0%**
 ## Manuscript
 First manuscript draft complete: **100%**. Structural completion is not the same as commercial word-count completion; the draft still requires substantial expansion and editing.
 
-## Canon policy
-The architecture is now the working canon. Future manuscript changes must be checked against it.
+Measured current manuscript size before this latest expansion: **15,023 words** using the project tokenization rule. The new Chapter 1 text has been expanded but the repository-wide count has not yet been re-run, so 15,023 remains the last verified total.
 
-## Next action
-Expand the manuscript substantially toward the 70–100k commercial range, then run the full continuity/clue/prose/repetition audit and final publishing package. Measured current manuscript size: 15,023 words using the project tokenization rule.
+## Deep commercial expansion — current batch
+- Batch 01 — Chapters 1–6: **17%**
+- Chapter 1 scene-level expansion: **100%**
+- Chapters 2–6 in this deep-expansion batch: **0%**
+- Canon integrity after Chapter 1 expansion: **100%**
+- Evidence-vs-interpretation discipline: **100%**
 
+The current pass adds scene-level texture, concrete verification actions, internal conflict and investigative procedure without changing locked plot facts or revealing future mechanisms early.
 
 ## Manuscript progress
 - Prologue: **100%**
@@ -79,3 +83,6 @@ Expand the manuscript substantially toward the 70–100k commercial range, then 
 - Chapter 38: **100%**
 - Chapter 39: **100%**
 - Chapter 40: **100%**
+
+## Next action
+Continue the deep scene-level expansion through Chapters 2–6, preserving canon and avoiding filler. After Batch 01 is complete, re-measure the full manuscript and run a targeted continuity/repetition pass before the next batch.

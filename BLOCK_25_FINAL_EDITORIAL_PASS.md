@@ -98,3 +98,18 @@ Next: **25.7 — Ending / aftermath final pass.**
 ## Progress
 **25.7 complete.**
 Next: **25.8 — Final editorial integration.**
+
+
+## 25.8 — Final editorial integration
+**100% COMPLETE**
+- Integrated the results of 25.1–25.7 into one final editorial state for Prologue + Chapters 01–40.
+- Confirmed the manuscript has passed the ordered editorial sequence: chapter-range editorial review, language consistency, dialogue/exposition review, and ending/aftermath review.
+- Confirmed all targeted duplicate-scene cleanups from 25.3–25.4 remain reflected in the current manuscript state.
+- Confirmed no unresolved language, dialogue, exposition, ending, canon or evidence-boundary issue was identified by the completed 25.x passes.
+- Confirmed the locked M mechanism, Alexei's accountability, archive survival and unidentified 08:16 thread remain unchanged.
+- No new prose padding or canon change was introduced during integration.
+- **Block 25 editorial integration is complete.**
+
+## Progress
+**25.8 complete.**
+Next: **Block 26 — Final Canon + Continuity Lock.**

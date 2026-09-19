@@ -1,18 +1,34 @@
 # QUALITY EXPANSION PLAN
 
-## Gate
+## Block 11 — QUALITY EXPANSION PLANNING
+
 Date: 2026-09-19
-Current manuscript: 20,620 words
-Commercial planning floor: 70,000 words
-Expansion gap to 70k: 49,380 words
+Status: **COMPLETE — 100%**
 
-## Principle
-Do not add prose to hit a number. Expand only where the added material creates new character information, suspense, evidence, dialogue/subtext, consequence, or thematic depth.
+### Purpose
+This block defines the controlled expansion program that will be executed in Block 12. It is a planning gate only: it does not claim that the manuscript has already reached commercial length.
 
-## Priority tiers
+### Locked baseline
+- Current verified manuscript measurement before the latest corrective 9-chapter pass: **20,620 words**.
+- Planned commercial target: **70,000–100,000 words**.
+- Historical gap from the verified baseline to 70k: **49,380 words**.
+- The latest corrective pass changed Chapters 01, 02, 04, 05, 06, 08, 09, 14 and 15; therefore a fresh measurement must be run before using any new exact word-count gap.
 
-### Tier A — highest expansion priority
-Short chapters where additional scene material is most likely to improve commercial pacing and narrative depth:
+### Non-negotiable expansion rules
+1. No padding for a word-count target.
+2. No canon changes unless CANON_LOCK.md is deliberately updated first.
+3. No duplicate clues unless the repetition has a different narrative function.
+4. Every added scene must provide at least one concrete gain: character, suspense, evidence, dialogue/subtext, consequence, relationship change, or thematic depth.
+5. Every new evidence item must have a payoff or an explicit narrative purpose.
+6. Every new emotional beat must alter stakes, relationship, or decision-making.
+7. Chapter openings and endings must remain causally connected to adjacent chapters.
+8. Existing completed expansion work is not redone without a concrete defect found by a later ordered audit.
+9. All work proceeds in manuscript order: Prologue → Chapter 01 → Chapter 40.
+10. After each production batch, save to GitHub and record the exact files changed.
+
+### Chapter treatment matrix
+
+#### Tier A — expansion candidates requiring the strongest scene-depth review
 - Ch 07 — 460
 - Ch 10 — 402
 - Ch 11 — 428
@@ -29,8 +45,7 @@ Short chapters where additional scene material is most likely to improve commerc
 - Ch 39 — 293
 - Ch 40 — 332
 
-### Tier B — medium expansion priority
-Chapters with room for targeted scene, dialogue and evidence enrichment:
+#### Tier B — targeted expansion candidates
 - Ch 03 — 642
 - Ch 04 — 573
 - Ch 05 — 502
@@ -54,29 +69,36 @@ Chapters with room for targeted scene, dialogue and evidence enrichment:
 - Ch 32 — 651
 - Ch 33 — 566
 
-### Tier C — controlled refinement
-Longer or structurally dense chapters should not be expanded automatically:
+#### Tier C — controlled review; expand only when evidence supports it
 - Ch 01 — 826
 - Ch 02 — 773
 - Ch 16 — 633
 
-## Expansion sequence
-1. Continuity-sensitive chapters first: 7–12, 19–24, 29–30, 37–40.
-2. Repetition-sensitive prose pass alongside expansion.
-3. Character/dialogue depth pass.
-4. Evidence and clue density pass.
-5. Re-measure manuscript.
-6. Only then decide the next expansion batch.
+### Ordered production sequence for Block 12
+1. Fresh full-manuscript measurement after the corrective 9-chapter pass.
+2. Prologue and Chapters 01–06: review only for concrete expansion opportunities; do not automatically add length.
+3. Chapters 07–12: execute the highest-priority evidence/character/dialogue expansion opportunities.
+4. Chapters 13–18: execute targeted expansion where it materially improves the investigation or character arc.
+5. Chapters 19–24: deepen the revelation/consequence chain without changing canon.
+6. Chapters 25–30: deepen pressure, choice and human cost.
+7. Chapters 31–36: deepen final-act escalation, accountability and release.
+8. Chapters 37–40: deepen aftermath, emotional resolution and controlled sequel thread.
+9. Re-measure the complete manuscript.
+10. Compare the measured result against the commercial target and decide the next expansion batch from evidence, not assumptions.
 
-## Quality gates for every edited chapter
-- No contradiction with CANON_LOCK.md.
-- No duplicate clue that adds no information.
-- No artificial word-count padding.
-- Dialogue must reveal character, conflict or information.
-- New evidence must have a later payoff or explicit narrative purpose.
-- New emotional beats must change the relationship or stakes.
-- Chapter opening and ending must remain causally connected to adjacent chapters.
+### Per-chapter quality gate
+A chapter is considered expanded only when:
+- continuity is checked against the preceding and following chapter;
+- canon is checked against CANON_LOCK.md;
+- no redundant clue was introduced;
+- dialogue has a distinct function;
+- added material changes information, emotion, stakes or consequence;
+- the chapter ending still creates a causal bridge forward;
+- the change is saved to GitHub.
 
-## Current planning status
-Quality expansion planning: 25%.
-The chapter-level prioritization and sequencing are now defined. Actual prose expansion remains 0% until chapters are edited and re-measured.
+### Definition of Done for Block 11
+All planning inputs, priorities, rules, chapter treatment, ordered execution sequence, quality gates, and completion criteria are explicitly documented. **Block 11 = 100%.**
+
+### Next block
+**Block 12 — Actual Prose Expansion: 24% → 100%.**
+No claim of 100% is made until the prose itself has been edited and verified.

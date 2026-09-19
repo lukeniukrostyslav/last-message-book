@@ -1,3 +1,13 @@
+## 2026-09-19 — Block 24 Controlled Expansion / Refinement started
+- Block 24 opened at **15%**.
+- Added the controlled expansion architecture with eight focused sub-blocks.
+- Completed 24.1 Witness / evidence depth at **15% of Block 24**.
+- Expanded Chapter 24 with bounded firsthand testimony from Mark Reid, including explicit limits on what he saw and a separate time note for later verification.
+- No canon change and no filler.
+- Added BLOCK_24_CONTROLLED_EXPANSION.md.
+- GitHub checkpoints: Chapter 24 ecdf2d0; block architecture b2fe204; PROJECT_STATE 6cd3e4c.
+- Next: **24.2 — Alexei responsibility / memory depth**.
+
 ## 2026-09-19 — Block 23.14 Fresh Word Count / Commercial Assessment completed
 - Preserved the latest verified manuscript measurement at **32,204 words**.
 - Did not invent a new repository-wide word count where the available GitHub action set could not independently establish one.

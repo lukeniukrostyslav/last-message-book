@@ -1,3 +1,11 @@
+## 2026-09-19 — Block 24.4 Sofia / family consequence depth completed
+- Completed Block 24.4 at **100%**; overall Block 24 advances to **51%**.
+- Expanded Chapter 13 with Sofia setting explicit participation boundaries and retaining the right to stop.
+- Deepened Alexei's family arc through a concrete commitment to disclose decisions affecting Sofia before acting for her.
+- No canon change, no filler, no duplicate of the later Layer 3-B discovery.
+- GitHub checkpoints: Chapter 13 1f8f62d; Block 24 report 1717ad5; PROJECT_STATE f66db67.
+- Next: **Block 24.5 — Thomas / human-cost depth**.
+
 ## 2026-09-19 — Block 24.3 Elena investigation depth completed
 - Completed Block 24.3 at **100%**; overall Block 24 advances to **39%**.
 - Expanded Chapter 16 with Elena's source-control and publication-discipline reasoning.

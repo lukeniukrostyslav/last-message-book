@@ -102,3 +102,14 @@
 - Added PROSE_LITERARY_POLISH_AUDIT.md.
 - Block 17 — Prose / Literary Polish: **100% COMPLETE**.
 - GitHub checkpoints: Ch01 ef5785e, Ch13 9ac75dd, Ch40 b0700c9, audit 716cfa9, PROJECT_STATE 44e3476.
+
+
+## 2026-09-19 — Block 18 Commercial-Length Readiness completed
+- Completed the commercial-length readiness gate.
+- Locked the 70,000–100,000 word planning target and explicitly separated readiness from actual length completion.
+- Documented the required future expansion architecture across Acts I–IV and the no-padding quality gate.
+- Preserved the rule that a fresh exact measurement must use the established counting convention before a new numerical gap is published.
+- Added COMMERCIAL_LENGTH_READINESS.md.
+- Block 18 — Commercial-Length Readiness: **100% COMPLETE as a readiness gate**.
+- Important: the manuscript itself is **not** yet 70,000 words and is not described as commercially length-complete.
+- GitHub checkpoints: readiness 1ca8fa5, PROJECT_STATE 093edd8.

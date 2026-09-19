@@ -61,7 +61,9 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 - Deep scene-level expansion: **100%** (40 of 40 chapters)
 - Refinement pass: **in progress**
 - Measurement gate: **100%**
-- Quality expansion planning: **0%**
+- Quality expansion planning: **25%**
+- Quality expansion chapter prioritization: **100%**
+- Actual prose expansion after the plan: **0%**
 
 ## Length gate
 - Measured current manuscript: **20,620 words**

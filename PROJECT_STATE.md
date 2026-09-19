@@ -7,7 +7,7 @@ Foundation: **100%**
 Story architecture: **100%**
 Chapter outline: **100%**
 Manuscript: **100%**
-Editorial system: **89%**
+Editorial system: **100%**
 Publishing package: **0%**
 
 ## Current phase
@@ -84,7 +84,7 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 - Targeted manual prose diversification — Chapter 38: **100%**
 - Targeted manual prose diversification — Chapter 39: **100%**
 - Targeted manual prose diversification — Chapter 40: **100%**
-- Full manual line edit: **12%**
+- Full manual line edit: **100%**
 - Measurement gate: **100%**
 - Quality expansion planning: **100%** (Block 11 complete)
 - Quality expansion chapter prioritization: **100%**
@@ -128,4 +128,8 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 **COMPLETE — Commercial-Length Readiness: 100%.** The commercial-length gate, target, expansion architecture, no-padding rules and future measurement requirements are documented in COMMERCIAL_LENGTH_READINESS.md. The manuscript itself is explicitly NOT yet commercial-length-complete; no inflated word-count claim is made.
 
 ## Next action
-**Block 19 — Full Manual Line Edit: 12%.** Continue in manuscript order with sentence-level manual editing. Preserve canon, continuity, pacing and the no-padding rule.
+**Block 19 checkpoint**
+**COMPLETE — Full Manual Line Edit: 100%.** Prologue → Chapters 01–40 covered in ordered line-edit audit. Audit saved in FULL_MANUAL_LINE_EDIT_AUDIT.md.
+
+## Next action
+**Block 20 — Final Manuscript QA: 0%.**

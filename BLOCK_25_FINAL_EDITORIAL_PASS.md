@@ -18,3 +18,20 @@
 ## Progress
 **25.2 complete.**
 Next: **25.3 — Chapters 21–30 final editorial pass.**
+
+
+## 25.3 — Chapters 21–30
+**100% COMPLETE**
+- Reviewed Chapters 21–30 in manuscript order for prose clarity, sentence rhythm, dialogue, exposition density, repetition, technical terminology, evidence-vs-interpretation discipline, character responsibility and consistency with the locked M mechanism.
+- Chapter 21: the repeated responsibility material was retained where each pass added a distinct boundary (creation, post-departure changes, and limits of authorship); no unsupported canon change was introduced.
+- Chapter 22: the memory/evidence separation and the causal-loop explanation were checked; no justified prose correction was required.
+- Chapter 23: causality and technical evidence were checked against the investigation logic; no justified prose correction was required.
+- Chapter 24: found a concrete duplicate aftermath scene with the same narrative function (separating Mark's disappearance from the evidence on the flash drive). Removed the redundant duplicate aftermath section and retained the stronger preceding editorial version plus the later protocol-comparison scene.
+- Chapters 25–30: checked institutional pressure, Sofia's archive discovery, Thomas's human-cost material, the Layer 3-B instruction, Alexei's voluntary disclosure, provenance work and Day 27 escalation. No additional correction was justified.
+- No artificial rewriting or word-count padding introduced.
+- Editorial decision: one targeted prose-structure correction in Chapter 24; otherwise no justified prose changes.
+- GitHub chapter checkpoint: 754a9bb0c50a1c133884bd088b199f1b65cf7dc2.
+
+## Progress
+**25.3 complete.**
+Next: **25.4 — Chapters 31–40 final editorial pass.**

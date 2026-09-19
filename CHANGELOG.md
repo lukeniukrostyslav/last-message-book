@@ -1,3 +1,11 @@
+## 2026-09-19 — Block 12 ordered prose expansion checkpoint
+- Expanded Chapters **13, 16, 17 and 18** with new evidence-chain, source provenance, verification, mechanism-testing and uncertainty-control scenes.
+- Existing completed Chapters **14 and 15** were not re-edited.
+- Block 12 controlled production coverage is now **13/40 = 33%**.
+- GitHub commits for the four chapter edits: **86ca8fe, 04b7e61, 6274cdb, 3608585**.
+- PROJECT_STATE checkpoint saved in commit **4ff09ce**.
+- Full-manuscript remeasurement remains pending until the ordered expansion batch reaches its measurement gate.
+
 # CHANGELOG
 
 ## 2026-09-19 — Verified GitHub checkpoint saved

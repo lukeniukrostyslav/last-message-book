@@ -13,7 +13,7 @@ Last verified repository-wide count before deep-expansion batches: **15,023 word
 - Pacing — **90%**
 - Prose / literary polish — **55%**
 - Commercial-length readiness — **65%**
-- Deep scene-level expansion — **75%** (30/40 chapters)
+- Deep scene-level expansion — **90%** (36/40 chapters)
 
 ## Deep commercial expansion
 ### Batch 01 — Chapters 1–6
@@ -26,6 +26,15 @@ Last verified repository-wide count before deep-expansion batches: **15,023 word
 **100% complete.**
 ### Batch 05 — Chapters 25–30
 **100% complete.**
+### Batch 06 — Chapters 31–36
+**100% complete.**
+Strengthened:
+- provenance procedure and evidentiary limits;
+- publication verification before release;
+- independent checking of the deletion journal;
+- reproducibility of archive verification;
+- explicit boundary between Alexei's confession and M's influence;
+- post-release separation of confirmed facts, testimony, and hypotheses.
 Strengthened:
 - pressure and source reliability around Hale;
 - Sofia's independent participation and Layer 3-B preservation;

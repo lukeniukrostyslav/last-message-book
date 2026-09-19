@@ -1,7 +1,7 @@
 # BLOCK 24 — CONTROLLED EXPANSION / REFINEMENT
 
 ## Status
-**15% IN PROGRESS**
+**27% IN PROGRESS**
 
 Date: 2026-09-19
 
@@ -23,7 +23,11 @@ No filler is permitted.
 GitHub checkpoint: `ecdf2d0296021f6f07df6468985ddbaaa599248a`
 
 ### 24.2 Alexei responsibility / memory depth
-**0%**
+**100% COMPLETE**
+- Chapter 17 received a targeted expansion focused on the boundary between memory, archive evidence and self-protective reconstruction.
+- Added a concrete decision point: Alexei refuses to fill an evidentiary gap with a self-exonerating version and preserves the unresolved interval for later verification.
+- The expansion deepens responsibility without changing the locked canon or inventing a new event.
+- GitHub checkpoint: `ea8d812959b3425ee885190094c30f44dd41225c`
 Expand only where additional scene material reveals a new decision, recovered memory, consequence or contradiction—not repeated self-reflection.
 
 ### 24.3 Elena investigation depth
@@ -59,7 +63,7 @@ Every expansion must pass:
 5. No artificial word-count padding.
 
 ## Current decision
-Block 24 remains **IN PROGRESS at 15%**. The next controlled expansion will continue with the highest-value unresolved area rather than adding volume indiscriminately.
+Block 24 remains **IN PROGRESS at 27%**. The next controlled expansion will continue with the highest-value unresolved area rather than adding volume indiscriminately.
 
 ## Next action
 **Block 24.2 — Alexei responsibility / memory depth.**

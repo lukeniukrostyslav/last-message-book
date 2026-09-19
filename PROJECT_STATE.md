@@ -156,12 +156,12 @@ Historical baseline before deep-expansion batches: 15,023 words.
 **COMPLETE — Fresh Word Count / Commercial Assessment: 100%.** The latest verified repository measurement remains 32,204 words. No unsupported new count was invented. Against the 70,000–100,000 target, the verified gaps remain 37,796 and 67,796 words. Commercial-length completion remains NO.
 
 ## Next action
-**Block 25.2 — Chapters 11–20 final editorial pass.**
+**Block 25.3 — Chapters 21–30 final editorial pass.**
 
 ### Block 25
-**IN PROGRESS — 12.5%.**
+**IN PROGRESS — 25%.**
 - 25.1 Chapters 1–10 final editorial pass: **100%**.
-- 25.2 Chapters 11–20 final editorial pass: **0%**.
+- 25.2 Chapters 11–20 final editorial pass: **100%**.
 - 25.3 Chapters 21–30 final editorial pass: **0%**.
 - 25.4 Chapters 31–40 final editorial pass: **0%**.
 - 25.5 Full manuscript language consistency: **0%**.

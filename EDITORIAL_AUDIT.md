@@ -66,4 +66,4 @@ The manuscript may be called:
 
 ## Commercial expansion pass
 
-The first expansion pass has started with chapters 1–6. These chapters now contain additional investigation beats, sensory detail, dialogue, internal conflict and evidence-checking rather than simple summary. The 15% figure represents production progress through the planned chapter-by-chapter expansion pass, not a measured percentage of the final word-count target.
+The first expansion pass has progressed through chapters 1–12. These chapters now contain additional investigation beats, sensory detail, dialogue, internal conflict and evidence-checking rather than simple summary. The 15% figure represents production progress through the planned chapter-by-chapter expansion pass, not a measured percentage of the final word-count target.

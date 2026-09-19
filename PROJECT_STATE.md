@@ -158,3 +158,7 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 
 ## Block 23.7 checkpoint
 **COMPLETE — Quality Expansion Pass: 100%.** Prologue → Chapters 01–40 were reviewed in manuscript order after the 23.2–23.6 expansion sequence. Chapter 01 received one targeted deepening of Alexei's unresolved PR-06 responsibility trail. Chapters 02–40 were reviewed and left unchanged where additional expansion would not add story value. No canon contradiction or supernatural mechanism was introduced. Current verified manuscript measurement remains **32,204 words**. Next: **Block 23.8 — Structural Continuity Recheck**.
+
+
+## Block 23.8 checkpoint
+**COMPLETE — Structural Continuity Recheck: 100%.** Prologue → Chapters 01–40 were rechecked in manuscript order. A concrete chronology defect in Chapter 32 was corrected: publication was moved back out of Day 29 wording, restoring the explicit Chapter 36 09:00 publication point. No canon change. Next: **Block 23.9 — Mystery / Clue Recheck**.

@@ -18,3 +18,9 @@
 - Added a complete 40-chapter + prologue working outline.
 - Mapped the countdown, clues, reversals, character beats and ending.
 - Book 1 is designed to resolve its central mystery while preserving a controlled sequel hook.
+
+
+## 2026-09-19 — Editorial Block 01
+- Reworked Chapters 1–3 to strengthen the opening promise, professional verification, sensory grounding and escalation from warning to photograph.
+- Preserved locked canon: M remains automated, the photograph remains manufactured, and the Day 30 mechanism remains unrevealed.
+- Editorial Block 01 remains in progress pending full continuity and prose review.

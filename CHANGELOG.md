@@ -1,3 +1,11 @@
+## 2026-09-19 — Block 27.3 Manuscript Package Structure completed
+- Defined the release-package layers for manuscript, metadata, marketing copy, QA and manifest/archive records.
+- Locked source-of-truth and release-integrity rules without changing manuscript canon.
+- Added BLOCK_27_3_MANUSCRIPT_PACKAGE_STRUCTURE.md.
+- Block 27.3 — **100% COMPLETE**.
+- Block 27 overall: **37.5%**.
+- Next: **Block 27.4 — Blurb / synopsis / pitch package**.
+
 ## 2026-09-19 — Block 27.2 Title / Author / Edition Metadata Audit completed
 - Audited title, genre and publication metadata readiness.
 - Confirmed the title and genre against CANON_LOCK.md.

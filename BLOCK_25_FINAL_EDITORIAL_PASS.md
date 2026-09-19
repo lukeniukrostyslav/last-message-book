@@ -83,3 +83,18 @@ Next: **25.6 — Dialogue / exposition final pass.**
 ## Progress
 **25.6 complete.**
 Next: **25.7 — Ending / aftermath final pass.**
+
+
+## 25.7 — Ending / aftermath final pass
+**100% COMPLETE**
+- Re-read Chapters 35–40 as one continuous final-act and aftermath sequence.
+- Confirmed the causal ending: Alexei publicly discloses his own role; the archive survives in independently verifiable copies; consequences continue without requiring a new supernatural or technical reveal.
+- Confirmed the 08:16 sequence remains deliberately unresolved: the message is not attributed to M, and the text itself does not prove a continuing system.
+- Confirmed Chapter 40's two remaining scenes have distinct functions: ordinary life after the ending and final archival verification.
+- Confirmed the emotional endpoint is Alexei's regained agency rather than another instruction; the final line preserves the controlled sequel thread without reopening the solved Book 1 mechanism.
+- No new mystery was artificially added, no ending explanation was repeated, and no canon change was required.
+- **Editorial decision: ending and aftermath require no prose correction.**
+
+## Progress
+**25.7 complete.**
+Next: **25.8 — Final editorial integration.**

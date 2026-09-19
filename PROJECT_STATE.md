@@ -133,5 +133,8 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 ## Block 20 checkpoint
 **COMPLETE — Final Manuscript QA: 100%.** Prologue → Chapters 01–40 checked for canon, chronology, M mechanism, evidence discipline, character agency, duplicate structure and ending integrity. A concrete premature end-marker defect in Chapter 40 was corrected and saved. Audit saved in FINAL_MANUSCRIPT_QA.md.
 
+## Block 21 checkpoint
+**COMPLETE — Final Canon Verification: 100%.** Locked canon, timeline, twist architecture, character canon, chapter outline and Prologue → Chapter 40 final-act chronology were verified. No canon change was required. Audit saved in FINAL_CANON_VERIFICATION.md.
+
 ## Next action
-**Block 21 — Final Canon Verification: 0%.**
+**Block 22 — Final Word Count Gate: 0%.**

@@ -71,7 +71,7 @@ Historical baseline before deep-expansion batches: 15,023 words.
 - Block 23.12 Prose / Literary Recheck: **100%**
 - Block 23.13 Final Manuscript Integration: **100%**
 - Block 23.14 Fresh Word Count / Commercial Assessment: **100%**
-- Block 24 Controlled Expansion / Refinement: **75% in progress**
+- Block 24 Controlled Expansion / Refinement: **87% in progress**
 
 ## Length gate
 - Current verified manuscript: **32,204 words**
@@ -156,4 +156,4 @@ Historical baseline before deep-expansion batches: 15,023 words.
 **COMPLETE — Fresh Word Count / Commercial Assessment: 100%.** The latest verified repository measurement remains 32,204 words. No unsupported new count was invented. Against the 70,000–100,000 target, the verified gaps remain 37,796 and 67,796 words. Commercial-length completion remains NO.
 
 ## Next action
-**Block 24.7 — Investigation atmosphere / locations.**
+**Block 24.8 — Final-act consequence depth.**

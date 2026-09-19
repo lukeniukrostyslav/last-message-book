@@ -1,14 +1,20 @@
 # CHANGELOG
 
+## 2026-09-19 — Block 11 quality expansion planning completed
+- Rebuilt QUALITY_EXPANSION_PLAN.md as the controlled production specification for Block 12.
+- Locked the non-negotiable expansion rules: no padding, no silent canon changes, no duplicate clues, and no unordered chapter hopping.
+- Defined treatment tiers for all manuscript chapters.
+- Defined the ordered production sequence from Prologue through Chapter 40.
+- Defined the per-chapter quality gate and Definition of Done.
+- Block 11: **100%**.
+- Next: **Block 12 — Actual Prose Expansion: 24% → 100%**.
+
 ## 2026-09-19 — Fresh manuscript measurement gate completed
 - Measured PROLOGUE.md + CHAPTER_01.md through CHAPTER_40.md from the current main branch.
-- Current measured manuscript size: **20,620 words**.
+- Current measured manuscript size before the latest corrective pass: **20,620 words**.
 - Historical pre-expansion baseline: **15,023 words**.
 - Increase versus baseline: **+5,597 words (+37.2%)**.
-- Measured gap to 70,000 words: **49,380 words**.
-- Measured gap to 100,000 words: **79,380 words**.
-- Added MANUSCRIPT_MEASUREMENT.md with chapter-by-chapter distribution and methodology.
-- Measurement gate: **100%**.
+- The latest corrective pass requires a fresh remeasurement before claiming a new exact total.
 - Commercial-length completion remains **NO**; quality expansion must be driven by story value rather than padding.
 
 ## 2026-09-19 — Deep commercial expansion Batch 07 completed

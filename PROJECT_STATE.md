@@ -30,7 +30,7 @@ Publishing package: **0%**
 ## Manuscript
 First manuscript draft complete: **100%**. Structural completion is not commercial-length completion.
 
-Fresh full-manuscript measurement completed 2026-09-19: **26,890 words** across Prologue + Chapters 1–40.
+Fresh full-manuscript measurement completed 2026-09-19: **26,890 words** across Prologue + Chapters 1–40 before Block 23.2 expansion.
 
 Historical baseline before deep-expansion batches: 15,023 words. Measured increase: **+5,597 words (+37.2%)**.
 
@@ -103,7 +103,8 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 - **GitHub checkpoint saved and verified on main after the corrective 9-chapter pass.**
 
 ## Length gate
-- Measured current manuscript: **26,890 words**
+- Measured current manuscript before Block 23.2: **26,890 words**
+- Current post-23.2 working total: **29,425 words** (verified range count + unchanged remainder)
 - Planned commercial target: **70,000–100,000 words**
 - Gap to 70k: **43,110 words**
 - Gap to 100k: **73,110 words**
@@ -142,8 +143,11 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 ## Block 23.1 checkpoint
 **COMPLETE — Expansion Architecture: 100%.** The controlled architecture for expanding the 26,890-word manuscript toward 70,000–100,000 words is documented in `BLOCK_23_1_EXPANSION_ARCHITECTURE.md`. Expansion will proceed in manuscript order and will not use word-count quotas or filler.
 
+## Block 23.2 checkpoint
+**COMPLETE — Prologue + Chapters 01–10: 100%.** The range was expanded in manuscript order and saved to GitHub. Verified range count: 10,581 words; current working manuscript total: 29,425 words.
+
 ## Next action
-**Block 23.2 — Prologue + Chapters 01–10: 0%.**
+**Block 23.3 — Chapters 11–20: 0%.**
 
 ## Final Canon Verification checkpoint refresh
 **Block 21 remains 100% COMPLETE.** Final canon verification is locked; no canon change is required. GitHub main checkpoint refreshed 2026-09-19.

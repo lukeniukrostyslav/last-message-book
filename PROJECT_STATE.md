@@ -53,7 +53,7 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 
 ## Editorial production blocks
 - Structural continuity: **100%**
-- Mystery / clue continuity: **97%**
+- Mystery / clue continuity: **100%**
 - Character continuity: **95%**
 - Pacing: **90%**
 - Prose / literary polish: **55%**
@@ -112,5 +112,8 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 ## Block 13 checkpoint
 **COMPLETE — Structural Continuity: 100%.** Prologue → Chapters 01–40 were audited in manuscript order. A post-Day-30 calendar contradiction in Chapters 39–40 was corrected without changing locked canon. Audit saved in `STRUCTURAL_CONTINUITY_AUDIT.md`.
 
+## Block 14 checkpoint
+**COMPLETE — Mystery / Clue Continuity: 100%.** Every major clue, reveal, evidence boundary and payoff was audited in Prologue → Chapters 01–40 order. Chapter 08 received one targeted correction to make the opening-warning payoff explicit without changing Elena's role or locked canon. Audit saved in MYSTERY_CLUE_CONTINUITY_AUDIT.md.
+
 ## Next action
-**Block 14 — Mystery / Clue Continuity: 97%.** Continue in manuscript order; verify every clue, reveal, evidence boundary and payoff, and save each production checkpoint to GitHub. No unnecessary re-editing of completed prose.
+**Block 15 — Character Continuity: 95%.** Continue in manuscript order; verify character knowledge, motivation, relationships, agency and consequence continuity, then save each production checkpoint to GitHub.

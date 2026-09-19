@@ -6,7 +6,7 @@ Last updated: 2026-09-19
 Foundation: **100%**
 Story architecture: **100%**
 Chapter outline: **100%**
-Manuscript: **0%**
+Manuscript: **8%**
 Editorial system: **0%**
 Publishing package: **0%**
 
@@ -35,3 +35,9 @@ The architecture is now the working canon. Future manuscript changes must be che
 
 ## Next action
 Write the prologue and Chapter 1 only after the architecture documents have been reviewed as a consistent set.
+
+
+## Manuscript progress
+- Prologue: **100%**
+- Chapter 1: **100%**
+- Chapters 2–40: **0%**

@@ -36,11 +36,11 @@ The short-chapter format is consistent with the intended thriller style.
 
 The next pass must identify chapters that are too compressed and expand scenes where tension, sensory detail, conflict or dialogue are currently represented only as summary.
 
-### 5. Prose / literary polish — 10%
+### 5. Prose / literary polish — 20%
 No claim of final prose polish yet.
 The existing draft is intentionally compact and requires a substantial expansion and rewrite pass.
 
-### 6. Commercial-length readiness — 0%
+### 6. Commercial-length readiness — 15%
 The first draft is structurally complete, but it is NOT yet a 70–100k-word commercial novel.
 The current files are a compressed draft/scene manuscript. Word count must be measured exactly in the next production pass before any claim about target length.
 
@@ -55,7 +55,7 @@ The manuscript may be called:
 
 ## Next production pass
 
-1. Measure exact manuscript word count.
+1. Measure exact manuscript word count before setting the final commercial-length target.
 2. Expand compressed scenes without filler.
 3. Perform continuity audit across all chapters.
 4. Verify clue/twist foreshadowing.
@@ -63,3 +63,7 @@ The manuscript may be called:
 6. Remove repetition and generic thriller phrasing.
 7. Re-read ending against the opening promise.
 8. Save every accepted revision to GitHub.
+
+## Commercial expansion pass
+
+The first expansion pass has started with chapters 1–6. These chapters now contain additional investigation beats, sensory detail, dialogue, internal conflict and evidence-checking rather than simple summary. The 15% figure represents production progress through the planned chapter-by-chapter expansion pass, not a measured percentage of the final word-count target.

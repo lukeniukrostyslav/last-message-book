@@ -7,7 +7,7 @@ Foundation: **100%**
 Story architecture: **100%**
 Chapter outline: **100%**
 Manuscript: **100%**
-Editorial system: **82%**
+Editorial system: **85%**
 Publishing package: **0%**
 
 ## Current phase
@@ -38,14 +38,16 @@ Last verified repository-wide baseline before deep-expansion batches: **15,023 w
 - Batch 03 — Chapters 13–18: **100%**
 - Batch 04 — Chapters 19–24: **100%**
 - Batch 05 — Chapters 25–30: **100%**
-- Chapters 1–30 scene-level expansion: **100%**
+- Batch 06 — Chapters 31–36: **100%**
+- Chapters 1–36 scene-level expansion: **100%**
 - Evidence-vs-interpretation discipline: **100%**
 - Canon integrity: **100%**
 
 ## Manuscript progress
 - Prologue: **100%**
 - Chapters 1–30: **100%**
-- Chapters 31–40: **100% structural/commercial pass; deep scene expansion pending**
+- Chapters 31–36: **100% deep scene expansion**
+- Chapters 37–40: **100% structural/commercial pass; deep scene expansion pending**
 
 ## Editorial production blocks
 - Structural continuity: **98%**
@@ -57,4 +59,4 @@ Last verified repository-wide baseline before deep-expansion batches: **15,023 w
 - Deep scene-level expansion: **75%** (30 of 40 chapters completed)
 
 ## Next action
-Run the measurement/audit gate, then continue Batch 06 on Chapters 31–36 with the same scene-level standard.
+Run the measurement/audit gate, then continue Batch 07 on Chapters 37–40 with the same scene-level standard.

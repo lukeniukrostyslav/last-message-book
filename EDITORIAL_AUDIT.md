@@ -2,7 +2,10 @@
 
 ## Status
 
-Editorial expansion pass is active. The manuscript is structurally complete but is not publication-ready.
+The chapter-by-chapter commercial expansion pass is complete through Chapter 40. A first complete ending pass is now also complete. The manuscript remains far below the planned 70–100k commercial target and is not publication-ready.
+
+### Exact manuscript measurement
+A repository-wide count of the Prologue plus Chapters 1–40 was performed on 2026-09-19 using a consistent word-like tokenization rule. Measured total: **15,023 words**. This is a technical count, not a claim about any particular publishing platform's word-count algorithm.
 
 ## Current findings
 

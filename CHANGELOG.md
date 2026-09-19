@@ -145,3 +145,10 @@
 - Added FINAL_CANON_VERIFICATION.md.
 - Block 21 — Final Canon Verification: **100% COMPLETE**.
 - GitHub checkpoints: audit 8be0c77, PROJECT_STATE a9e7942.
+
+
+## 2026-09-19 — Block 21 checkpoint refresh
+- Re-verified `FINAL_CANON_VERIFICATION.md` and `PROJECT_STATE.md` on main.
+- Corrected a stale editorial-state line in PROJECT_STATE: Prose / Literary Polish is **100%**, matching the completed Block 17 checkpoint.
+- Block 21 — Final Canon Verification remains **100% COMPLETE**.
+- No canon change, manuscript rewrite, or new story decision was introduced.

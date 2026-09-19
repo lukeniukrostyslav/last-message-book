@@ -33,9 +33,13 @@ First manuscript draft complete: **100%**. Structural completion is not the same
 Measured current manuscript size before this latest expansion: **15,023 words** using the project tokenization rule. The new Chapter 1 text has been expanded but the repository-wide count has not yet been re-run, so 15,023 remains the last verified total.
 
 ## Deep commercial expansion — current batch
-- Batch 01 — Chapters 1–6: **17%**
+- Batch 01 — Chapters 1–6: **100%**
 - Chapter 1 scene-level expansion: **100%**
-- Chapters 2–6 in this deep-expansion batch: **0%**
+- Chapter 2 scene-level expansion: **100%**
+- Chapter 3 scene-level expansion: **100%**
+- Chapter 4 scene-level expansion: **100%**
+- Chapter 5 scene-level expansion: **100%**
+- Chapter 6 scene-level expansion: **100%**
 - Canon integrity after Chapter 1 expansion: **100%**
 - Evidence-vs-interpretation discipline: **100%**
 

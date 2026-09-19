@@ -140,5 +140,8 @@ Historical baseline before deep-expansion batches: 15,023 words.
 ### Block 23.10
 **COMPLETE — Character Continuity Recheck: 100%.** Character identity, knowledge timing, motivation, relationships, agency, witness boundaries and M's non-human mechanism were rechecked after the expansion sequence. No manuscript correction or canon change was required. Audit saved in `BLOCK_23_10_CHARACTER_CONTINUITY_RECHECK.md`.
 
+### Block 23.11
+**COMPLETE — Pacing Recheck: 100%.** Rechecked opening escalation, causal movement, revelation spacing, human-stakes escalation, Day 27–30 acceleration, aftermath decompression, ending restraint and expansion-induced drag. No new pacing defect or filler requiring correction was found. Audit saved in `BLOCK_23_11_PACING_RECHECK.md`.
+
 ## Next action
-**Block 23.11 — Pacing Recheck.**
+**Block 23.12 — Prose / Literary Recheck.**

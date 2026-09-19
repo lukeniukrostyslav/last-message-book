@@ -86,7 +86,7 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 - Targeted manual prose diversification — Chapter 40: **100%**
 - Full manual line edit: **12%**
 - Measurement gate: **100%**
-- Quality expansion planning: **25%**
+- Quality expansion planning: **100%** (Block 11 complete)
 - Quality expansion chapter prioritization: **100%**
 - Actual prose expansion after the plan: **24%**
 - Quality expansion Batch 02 — Chapters 19–24: **100%**
@@ -109,4 +109,4 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 - Commercially length-complete: **NO**
 
 ## Next action
-Run the continuity/repetition audit, then build a chapter-level quality expansion plan. Add length only where it improves character, suspense, evidence, dialogue, or thematic depth; do not pad chapters merely to hit a number.
+**Block 12 — Actual Prose Expansion: 24% → 100%.** Execute the approved quality-expansion plan in manuscript order, save every production batch to GitHub, then re-measure the complete manuscript. No artificial word-count padding.

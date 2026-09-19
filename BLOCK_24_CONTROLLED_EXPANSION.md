@@ -1,7 +1,7 @@
 # BLOCK 24 — CONTROLLED EXPANSION / REFINEMENT
 
 ## Status
-**39% IN PROGRESS**
+**51% IN PROGRESS**
 
 Date: 2026-09-19
 
@@ -39,7 +39,11 @@ Expand only where additional scene material reveals a new decision, recovered me
 Strengthen her independent investigation and source-handling without turning her into an omniscient expositor.
 
 ### 24.4 Sofia / family consequence depth
-**0%**
+**100% COMPLETE**
+- Chapter 13 received a targeted expansion that gives Sofia a concrete boundary-setting decision and an explicit right to stop participating.
+- Alexei's protective instinct is reframed through a new behavioural commitment: disclose decisions affecting her before acting for her, and accept her independent choice.
+- No canon change, no filler, no duplicate of the existing Layer 3-B sequence.
+- GitHub checkpoint: `1f8f62db9f14491ef4760caace3ef47711de8cf3`
 Expand family stakes and Sofia's independent choices without making her passive or purely supportive.
 
 ### 24.5 Thomas / human-cost depth

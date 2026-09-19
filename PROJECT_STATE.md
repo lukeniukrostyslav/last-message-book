@@ -7,7 +7,7 @@ Foundation: **100%**
 Story architecture: **100%**
 Chapter outline: **100%**
 Manuscript: **100%**
-Editorial system: **0%**
+Editorial system: **10%**
 Publishing package: **0%**
 
 ## Current phase
@@ -28,13 +28,13 @@ Publishing package: **0%**
 - 1.12 Continuity/timeline: **100%**
 
 ## Manuscript
-First manuscript draft complete: **100%**.
+First manuscript draft complete: **100%**. Structural completion is not the same as commercial word-count completion; the draft still requires substantial expansion and editing.
 
 ## Canon policy
 The architecture is now the working canon. Future manuscript changes must be checked against it.
 
 ## Next action
-Write the prologue and Chapter 1 only after the architecture documents have been reviewed as a consistent set.
+Run the full editorial pass: exact word-count measurement, scene expansion, continuity audit, clue/twist verification, prose polish, and commercial-length review.
 
 
 ## Manuscript progress

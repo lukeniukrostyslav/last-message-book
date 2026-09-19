@@ -1,3 +1,13 @@
+## 2026-09-19 — Block 25.4 completed
+- Completed **25.4 Chapters 31–40 final editorial pass** at **100%**.
+- Removed concrete duplicate/redundant expansion scenes from Chapters 32, 33, 37, 38 and 39 where they repeated adjacent material without adding a distinct narrative function.
+- Reviewed Chapter 40's remaining aftermath scenes and retained both because they serve distinct functions.
+- Preserved the locked ending, the intentionally unidentified 08:16 message, M's non-supernatural mechanism and final accountability arc.
+- No canon change and no artificial word-count padding.
+- GitHub checkpoints: Chapter 32 `ce4e3adbabd73a88d10512942845f3de7eb4968b`; Chapter 33 `1edea2fff6e6892ac498751c547098116d0530f8`; Chapter 37 `61d436b6cf87b98cc35e376905ca3217e8ea2688`; Chapter 38 `a9ed33755a1b0581a3c6b0df5f357f49314e9e2f`; Chapter 39 `61449d412581ba5b5f30065947f7fb9ec8cc6c34`; Block 25 report `961ce8bce638e170e90f4d4ef8828d0cabc27c14`; PROJECT_STATE `9fba334817c5fee608a4f0f236e564e7ad8d0148`.
+- Block 25 advances to **50%**.
+- Next: **25.5 Full manuscript language consistency**.
+
 ## 2026-09-19 — Block 25.3 completed
 - Completed **25.3 Chapters 21–30 final editorial pass** at **100%**.
 - Reviewed Chapters 21–30 in manuscript order for prose clarity, rhythm, dialogue, exposition, repetition, technical terminology, evidence boundaries, character responsibility and M mechanism consistency.

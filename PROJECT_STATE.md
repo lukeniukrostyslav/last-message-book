@@ -162,11 +162,11 @@ Historical baseline before deep-expansion batches: 15,023 words.
 **Block 25.4 — Chapters 31–40 final editorial pass.**
 
 ### Block 25
-**IN PROGRESS — 37.5%.**
+**IN PROGRESS — 50%.**
 - 25.1 Chapters 1–10 final editorial pass: **100%**.
 - 25.2 Chapters 11–20 final editorial pass: **100%**.
 - 25.3 Chapters 21–30 final editorial pass: **100%**.
-- 25.4 Chapters 31–40 final editorial pass: **0%**.
+- 25.4 Chapters 31–40 final editorial pass: **100%**.
 - 25.5 Full manuscript language consistency: **0%**.
 - 25.6 Dialogue / exposition final pass: **0%**.
 - 25.7 Ending / aftermath final pass: **0%**.

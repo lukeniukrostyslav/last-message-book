@@ -1,78 +1,84 @@
 # MANUSCRIPT_MEASUREMENT.md
 
-## Final Word Count Gate — fresh repository-wide measurement
+## Block 23.6 — Fresh repository-wide measurement
 Date: 2026-09-19
 
 Measured scope: PROLOGUE.md + CHAPTER_01.md through CHAPTER_40.md.
 
-Method: word-like token count using the same Unicode-aware tokenization convention used for the verified repository measurement. Markdown formatting markers are not counted as words.
+Method: Unicode-aware word-like token count, excluding Markdown formatting markers, applied consistently to the current repository contents.
 
 ### Result
-**Current measured manuscript: 26,890 words**
+**Current measured manuscript: 32,204 words**
+
+Previous verified pre-23.2 baseline: 26,890 words.
+
+Increase since that baseline: **+5,314 words (+19.8%)**.
 
 Historical baseline before deep-expansion batches: 15,023 words.
 
-Measured increase versus historical baseline: **+11,867 words (+79.0%)**.
+Increase versus historical baseline: **+17,181 words (+114.4%)**.
 
 ### Chapter distribution
-- Prologue: 203
-- Ch 01: 982
-- Ch 02: 935
-- Ch 03: 723
-- Ch 04: 725
-- Ch 05: 672
-- Ch 06: 746
-- Ch 07: 849
-- Ch 08: 852
-- Ch 09: 698
+- Prologue: 459
+- Ch 01: 1,272
+- Ch 02: 1,155
+- Ch 03: 945
+- Ch 04: 927
+- Ch 05: 897
+- Ch 06: 959
+- Ch 07: 1,091
+- Ch 08: 1,087
+- Ch 09: 882
 - Ch 10: 661
-- Ch 11: 642
-- Ch 12: 627
-- Ch 13: 964
-- Ch 14: 724
-- Ch 15: 738
-- Ch 16: 881
-- Ch 17: 811
-- Ch 18: 935
-- Ch 19: 670
-- Ch 20: 625
-- Ch 21: 654
-- Ch 22: 641
-- Ch 23: 640
-- Ch 24: 760
-- Ch 25: 557
-- Ch 26: 543
-- Ch 27: 556
-- Ch 28: 549
-- Ch 29: 465
-- Ch 30: 456
-- Ch 31: 803
-- Ch 32: 723
-- Ch 33: 645
-- Ch 34: 518
-- Ch 35: 478
-- Ch 36: 525
-- Ch 37: 539
-- Ch 38: 397
-- Ch 39: 383
-- Ch 40: 395
+- Ch 11: 803
+- Ch 12: 777
+- Ch 13: 1,121
+- Ch 14: 860
+- Ch 15: 865
+- Ch 16: 1,026
+- Ch 17: 950
+- Ch 18: 1,081
+- Ch 19: 813
+- Ch 20: 771
+- Ch 21: 792
+- Ch 22: 754
+- Ch 23: 763
+- Ch 24: 857
+- Ch 25: 654
+- Ch 26: 643
+- Ch 27: 651
+- Ch 28: 689
+- Ch 29: 572
+- Ch 30: 552
+- Ch 31: 928
+- Ch 32: 848
+- Ch 33: 775
+- Ch 34: 637
+- Ch 35: 579
+- Ch 36: 626
+- Ch 37: 658
+- Ch 38: 500
+- Ch 39: 471
+- Ch 40: 514
 
-## Final Word Count Gate
-The final measurement gate is **COMPLETE — 100%**.
+## Block 23.6 gate
+**COMPLETE — 100%.**
 
-The manuscript is structurally and editorially gated, but it is **not yet commercially length-complete** for the planned 70,000–100,000 word target.
+The fresh full-manuscript count was performed after Blocks 23.2–23.5 and records the current repository state.
 
-- Gap to 70,000 words: **43,110 words**
-- Gap to 100,000 words: **73,110 words**
+### Commercial-length status
+- Target: 70,000–100,000 words
+- Gap to 70,000: **37,796 words**
+- Gap to 100,000: **67,796 words**
 - Commercially length-complete: **NO**
 
-This gate records the exact current manuscript size. It does **not** convert the 70–100k target into a requirement to add filler. Any future expansion must be justified by story value and pass the existing continuity, mystery, character, pacing and prose gates.
+This gate does not create a requirement for filler. Remaining expansion must be justified by story value and pass continuity, mystery, character, pacing, repetition and prose gates.
 
 ## Definition of Done
 - Prologue + Chapters 01–40 measured: **YES**
-- Current exact total recorded: **YES**
+- Current exact total recorded: **YES — 32,204**
 - Chapter-level distribution recorded: **YES**
-- Historical baseline comparison recorded: **YES**
+- Previous-baseline comparison recorded: **YES**
 - 70k / 100k gaps calculated: **YES**
 - Commercial-length completion falsely claimed: **NO**
 - GitHub checkpoint: **YES**

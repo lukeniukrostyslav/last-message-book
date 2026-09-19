@@ -164,3 +164,13 @@
 - Commercial-length completion remains **NO**; Block 22 measures and records the truth rather than adding filler.
 - Block 22 — Final Word Count Gate: **100% COMPLETE**.
 - GitHub checkpoint: PROJECT_STATE and CHANGELOG saved on main.
+
+
+## 2026-09-19 — Block 23.1 Expansion Architecture completed
+- Defined the controlled expansion architecture for the current **26,890-word** manuscript.
+- Locked the 70,000–100,000 word target as a planning range, not a filler quota.
+- Mapped expansion goals, protected mysteries, ending constraints and priority areas across Prologue + Chapters 01–40.
+- Locked production order for Blocks 23.2–23.5 and the measurement policy for each major range.
+- Added `BLOCK_23_1_EXPANSION_ARCHITECTURE.md`.
+- Block 23.1 — **100% COMPLETE**.
+- GitHub checkpoint saved on main.

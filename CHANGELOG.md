@@ -91,3 +91,14 @@
 - Added PACING_AUDIT.md.
 - Block 16 — Pacing: **100% COMPLETE**.
 - GitHub checkpoints: Ch27 da2978a, Ch31 2c4f4db, audit 4dd2bed, PROJECT_STATE ab23fe9.
+
+
+## 2026-09-19 — Block 17 Prose / Literary Polish completed
+- Audited Prologue → Chapters 01–40 for sentence rhythm, paragraph cadence, repeated constructions, dialogue texture, grammar and literary consistency.
+- Polished Chapter 1 opening/history phrasing.
+- Corrected a grammatical construction in Chapter 13.
+- Restored relative-date wording in Chapter 40 to preserve established chronology and sharpen the ending cadence.
+- Retained deliberate forensic fragments and dialogue repetition where they serve voice or tension.
+- Added PROSE_LITERARY_POLISH_AUDIT.md.
+- Block 17 — Prose / Literary Polish: **100% COMPLETE**.
+- GitHub checkpoints: Ch01 ef5785e, Ch13 9ac75dd, Ch40 b0700c9, audit 716cfa9, PROJECT_STATE 44e3476.

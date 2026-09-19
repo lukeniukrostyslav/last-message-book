@@ -219,3 +219,14 @@
 - Gap to 100k: **67,796 words**.
 - Commercial-length completion remains **NO**.
 - Block 23.6 — **100% COMPLETE**.
+
+
+## 2026-09-19 — Block 23.7 Quality Expansion Pass completed
+- Reviewed Prologue → Chapters 01–40 in manuscript order after the 23.2–23.6 expansion sequence.
+- Added one targeted Chapter 01 deepening connecting Alexei's present investigation to the unresolved responsibility trail from his departure from PR-06.
+- Reviewed Chapters 02–40 and deliberately avoided additional material where scenes already carried their intended function; no filler was added for word count.
+- Preserved locked canon: M remains an automated behavioural protocol; the future-looking photograph is manufactured; no supernatural mechanism was introduced.
+- Added BLOCK_23_7_QUALITY_EXPANSION_PASS.md.
+- Block 23.7 — **100% COMPLETE**.
+- GitHub checkpoint: Chapter 01 `6ec507d`; block report `b49d895`.
+- Next: **Block 23.8 — Structural Continuity Recheck**.

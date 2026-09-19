@@ -230,3 +230,13 @@
 - Block 23.7 — **100% COMPLETE**.
 - GitHub checkpoint: Chapter 01 `6ec507d`; block report `b49d895`.
 - Next: **Block 23.8 — Structural Continuity Recheck**.
+
+
+## 2026-09-19 — Block 23.8 Structural Continuity Recheck completed
+- Rechecked Prologue → Chapters 01–40 in manuscript order.
+- Found one concrete chronology defect in Chapter 32: “После публикации...” appeared before the explicit 09:00 publication in Chapter 36.
+- Corrected Chapter 32 to “После финальной проверки...”, preserving the Day 29 pre-publication sequence.
+- Added `BLOCK_23_8_STRUCTURAL_CONTINUITY_RECHECK.md`.
+- Block 23.8 — **100% COMPLETE**.
+- GitHub checkpoints: Ch32 `ca7c8c7`, audit `b0215e3`.
+- Next: **Block 23.9 — Mystery / Clue Recheck**.

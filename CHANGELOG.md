@@ -1,13 +1,14 @@
 # CHANGELOG
 
-## 2026-09-19 — Deep commercial expansion Batch 03 completed
-- Completed scene-level expansion of Chapters 13–18.
-- Strengthened Sofia's agency and the family evidence thread.
-- Added a controlled analysis of the second photograph and the consequences of Alexei's intervention.
-- Expanded the deliberate non-response experiment and preserved uncertainty around M's behavior.
-- Added provenance handling for Elena's audio file.
-- Separated archive evidence, memory and unknowns in Chapter 17.
-- Expanded M protocol history while explicitly avoiding unsupported claims about its author or motive.
-- Batch 03: **100%**.
-- Deep scene-level expansion coverage: **18/40 chapters = 45%**.
-- Last verified full-manuscript baseline remains **15,023 words**; current exact total is intentionally not claimed until a fresh recount is completed.
+## 2026-09-19 — Deep commercial expansion Batch 04 completed
+- Completed scene-level expansion of Chapters 19–24.
+- Strengthened the technical dismantling of the future-looking photograph.
+- Added source/version discipline for image evidence.
+- Clarified Alexei's responsibility versus later changes made after his departure.
+- Preserved the distinction between the original PR-06 mechanism and the current M protocol.
+- Expanded causality analysis around the PR-06 incident.
+- Strengthened provenance and preservation of Mark's witness file.
+- Preserved uncertainty around Mark's disappearance and the meaning of his warning.
+- Batch 04: **100%**.
+- Deep scene-level expansion coverage: **24/40 chapters = 60%**.
+- Last verified full-manuscript baseline remains **15,023 words**; no newer exact count claimed until a fresh recount.

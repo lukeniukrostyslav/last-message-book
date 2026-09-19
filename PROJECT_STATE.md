@@ -150,7 +150,7 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 **COMPLETE — Chapters 11–20: 100%.** Chapters 11–20 were expanded in manuscript order and saved to GitHub. Exact full-manuscript recount is deferred to Block 23.6.
 
 ## Next action
-**Block 23.4 — Chapters 21–30: 100%.** Chapters 21–30 were expanded and saved on main. Full word-count measurement remains scheduled for Block 23.6.
+**Block 23.4 — Chapters 21–30: 100%.** Chapters 21–30 were expanded and saved on main.
 
 ## Final Canon Verification checkpoint refresh
 **Block 21 remains 100% COMPLETE.** Final canon verification is locked; no canon change is required. GitHub main checkpoint refreshed 2026-09-19.

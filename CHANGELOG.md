@@ -1,3 +1,11 @@
+## 2026-09-19 — Block 24.2 Alexei responsibility / memory depth completed
+- Completed Block 24.2 at **100%**; overall Block 24 advances to **27%**.
+- Expanded Chapter 17 with a targeted scene separating memory, documentary evidence and self-protective reconstruction.
+- Alexei explicitly preserves an unresolved evidentiary gap instead of filling it with a self-exonerating explanation.
+- No canon change, no invented event, no filler.
+- GitHub checkpoints: Chapter 17 ea8d812; Block 24 report 6791b61; PROJECT_STATE 3441490.
+- Next: **Block 24.3 — Elena investigation depth**.
+
 ## 2026-09-19 — Block 24 Controlled Expansion / Refinement started
 - Block 24 opened at **15%**.
 - Added the controlled expansion architecture with eight focused sub-blocks.

@@ -7,11 +7,11 @@ Foundation: **100%**
 Story architecture: **100%**
 Chapter outline: **100%**
 Manuscript: **100%**
-Editorial system: **88%**
+Editorial system: **89%**
 Publishing package: **0%**
 
 ## Current phase
-**PHASE 5 — EDITORIAL REFINEMENT / MEASUREMENT GATE**
+**PHASE 5 — EDITORIAL REFINEMENT / QUALITY EXPANSION GATE**
 
 ## Story Architecture Sub-blocks
 - 1.1 Core concept: **100%**
@@ -30,7 +30,9 @@ Publishing package: **0%**
 ## Manuscript
 First manuscript draft complete: **100%**. Structural completion is not commercial-length completion.
 
-Last verified repository-wide baseline before deep-expansion batches: **15,023 words**. This is a historical baseline. No newer exact full-manuscript count is claimed until the fresh measurement pass is completed.
+Fresh full-manuscript measurement completed 2026-09-19: **20,620 words** across Prologue + Chapters 1–40.
+
+Historical baseline before deep-expansion batches: 15,023 words. Measured increase: **+5,597 words (+37.2%)**.
 
 ## Deep commercial expansion
 - Batch 01 — Chapters 1–6: **100%**
@@ -43,6 +45,7 @@ Last verified repository-wide baseline before deep-expansion batches: **15,023 w
 - Chapters 1–40 scene-level expansion: **100%**
 - Evidence-vs-interpretation discipline: **100%**
 - Canon integrity: **100%**
+- Fresh manuscript measurement gate: **100%**
 
 ## Manuscript progress
 - Prologue: **100%**
@@ -54,9 +57,18 @@ Last verified repository-wide baseline before deep-expansion batches: **15,023 w
 - Character continuity: **95%**
 - Pacing: **90%**
 - Prose / literary polish: **55%**
-- Commercial-length readiness: **65%** (production progress, not measured percentage of 70–100k target)
+- Commercial-length readiness: **65%** (production progress, not percentage of target word count)
 - Deep scene-level expansion: **100%** (40 of 40 chapters)
 - Refinement pass: **in progress**
+- Measurement gate: **100%**
+- Quality expansion planning: **0%**
+
+## Length gate
+- Measured current manuscript: **20,620 words**
+- Planned commercial target: **70,000–100,000 words**
+- Gap to 70k: **49,380 words**
+- Gap to 100k: **79,380 words**
+- Commercially length-complete: **NO**
 
 ## Next action
-Complete the fresh full-manuscript measurement gate, then perform the continuity/repetition audit. Do not claim a new exact word count until the full manuscript has been measured.
+Run the continuity/repetition audit, then build a chapter-level quality expansion plan. Add length only where it improves character, suspense, evidence, dialogue, or thematic depth; do not pad chapters merely to hit a number.

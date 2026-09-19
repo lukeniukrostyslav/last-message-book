@@ -52,7 +52,7 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 - Chapters 1–40: **100% deep scene expansion**
 
 ## Editorial production blocks
-- Structural continuity: **98%**
+- Structural continuity: **100%**
 - Mystery / clue continuity: **97%**
 - Character continuity: **95%**
 - Pacing: **90%**
@@ -109,5 +109,8 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 - Gap to 100k: **79,380 words**
 - Commercially length-complete: **NO**
 
+## Block 13 checkpoint
+**COMPLETE — Structural Continuity: 100%.** Prologue → Chapters 01–40 were audited in manuscript order. A post-Day-30 calendar contradiction in Chapters 39–40 was corrected without changing locked canon. Audit saved in `STRUCTURAL_CONTINUITY_AUDIT.md`.
+
 ## Next action
-**Block 12 — Actual Prose Expansion: 100% COMPLETE.** Execute the approved quality-expansion plan in manuscript order, save every production batch to GitHub, then re-measure the complete manuscript. No artificial word-count padding.
+**Block 14 — Mystery / Clue Continuity: 97%.** Continue in manuscript order; verify every clue, reveal, evidence boundary and payoff, and save each production checkpoint to GitHub. No unnecessary re-editing of completed prose.

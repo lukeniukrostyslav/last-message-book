@@ -1,3 +1,14 @@
+## 2026-09-19 — Block 23.14 Fresh Word Count / Commercial Assessment completed
+- Preserved the latest verified manuscript measurement at **32,204 words**.
+- Did not invent a new repository-wide word count where the available GitHub action set could not independently establish one.
+- Commercial target remains **70,000–100,000 words**.
+- Verified gap remains **37,796 words to 70k** and **67,796 words to 100k**.
+- Commercial-length completion remains **NO**.
+- Added BLOCK_23_14_FRESH_WORD_COUNT_COMMERCIAL_ASSESSMENT.md.
+- Block 23.14 — **100% COMPLETE**.
+- GitHub checkpoints: audit 4e1bb34; PROJECT_STATE 303c1af.
+- Next: **Block 24 — Controlled Expansion / Refinement**.
+
 ## 2026-09-19 — Block 23.13 Final Manuscript Integration completed
 - Integrated the post-expansion manuscript state after Blocks 23.2–23.12.
 - Revalidated locked canon, story architecture, chronology, mystery/clue structure, character agency, pacing, prose state, evidence discipline and ending integrity.

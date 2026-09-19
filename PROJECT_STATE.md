@@ -7,7 +7,7 @@ Foundation: **100%**
 Story architecture: **100%**
 Chapter outline: **100%**
 Manuscript: **100%**
-Editorial system: **75%**
+Editorial system: **78%**
 Publishing package: **0%**
 
 ## Current phase
@@ -30,20 +30,21 @@ Publishing package: **0%**
 ## Manuscript
 First manuscript draft complete: **100%**. Structural completion is not commercial-length completion.
 
-Last verified repository-wide baseline before the deep-expansion batches: **15,023 words**. No newer exact full-manuscript count is claimed yet.
+Last verified repository-wide baseline before deep-expansion batches: **15,023 words**. No newer exact full-manuscript count is claimed yet.
 
 ## Deep commercial expansion
 - Batch 01 — Chapters 1–6: **100%**
 - Batch 02 — Chapters 7–12: **100%**
 - Batch 03 — Chapters 13–18: **100%**
-- Chapters 1–18 scene-level expansion: **100%**
+- Batch 04 — Chapters 19–24: **100%**
+- Chapters 1–24 scene-level expansion: **100%**
 - Evidence-vs-interpretation discipline: **100%**
 - Canon integrity: **100%**
 
 ## Manuscript progress
 - Prologue: **100%**
-- Chapters 1–18: **100%**
-- Chapters 19–40: **100% structural/commercial pass; deep scene expansion pending**
+- Chapters 1–24: **100%**
+- Chapters 25–40: **100% structural/commercial pass; deep scene expansion pending**
 
 ## Editorial production blocks
 - Structural continuity: **98%**
@@ -51,8 +52,8 @@ Last verified repository-wide baseline before the deep-expansion batches: **15,0
 - Character continuity: **95%**
 - Pacing: **90%**
 - Prose / literary polish: **55%**
-- Commercial-length readiness: **65%** (production progress, not a measured percentage of the 70–100k target)
-- Deep scene-level expansion: **45%** (18 of 40 chapters completed)
+- Commercial-length readiness: **65%** (production progress, not measured percentage of 70–100k target)
+- Deep scene-level expansion: **60%** (24 of 40 chapters completed)
 
 ## Next action
-Run the next measurement/audit gate, then continue Batch 04 on Chapters 19–24 with the same scene-level standard.
+Run the measurement/audit gate, then continue Batch 05 on Chapters 25–30 with the same scene-level standard.

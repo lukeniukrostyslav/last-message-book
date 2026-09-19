@@ -3,8 +3,8 @@
 ## Status
 The 40-chapter architecture and first complete ending pass are finished. The manuscript remains below the planned 70–100k commercial target and is not publication-ready.
 
-### Measurement
-Last verified repository-wide count before the deep-expansion batches: **15,023 words**. This is a historical baseline, not the current total. A fresh full recount is still required before using a new exact word count.
+## Measurement
+Last verified repository-wide count before the deep-expansion batches: **15,023 words**. This is a historical baseline, not the current total. A fresh full recount is still required before publishing any new exact word count.
 
 ## Current findings
 - Structural continuity — **98%**
@@ -12,29 +12,27 @@ Last verified repository-wide count before the deep-expansion batches: **15,023 
 - Character continuity — **95%**
 - Pacing — **90%**
 - Prose / literary polish — **55%**
-- Commercial-length readiness — **65%** (production progress, not measured target completion)
+- Commercial-length readiness — **65%**
+- Deep scene-level expansion — **45%** (18/40 chapters)
 
 ## Deep commercial expansion
 ### Batch 01 — Chapters 1–6
 **100% complete.**
-Scene-level expansion added investigative procedure, sensory grounding, internal conflict, dialogue texture and evidence discipline.
 
 ### Batch 02 — Chapters 7–12
 **100% complete.**
-Added:
-- forensic verification around the contradictory access record;
-- Elena's independent motivation and source-handling;
-- route-change experiment and decision logging;
-- archive deletion mechanics and evidence boundaries;
-- authorship/version-history investigation;
-- Layer 3-B dependency tracing and caution around M's instructions.
 
-Canon remains unchanged: M is automated, the future-looking photograph is manufactured, Day 30 is an archive deletion window, and Alexei's choices remain his own.
+### Batch 03 — Chapters 13–18
+**100% complete.**
+Strengthened:
+- Sofia's independent agency and family evidence;
+- consequences of treating future-looking images as warnings;
+- decision logging and controlled non-response;
+- source provenance for Elena's recording;
+- separation of archive evidence from Alexei's memory;
+- M protocol history and uncertainty about authorship/motive.
 
-## Current production coverage
-Deep scene-level expansion completed: **12 / 40 chapters = 30% chapter coverage**.
-
-This is a coverage metric only; it is not a claim that the book is 30% of the way to the 70–100k word target.
+No locked canon was changed.
 
 ## Editorial gate
 - structurally complete: YES
@@ -46,9 +44,9 @@ This is a coverage metric only; it is not a claim that the book is 30% of the wa
 
 ## Next production steps
 1. Fresh full-manuscript word recount.
-2. Continuity/repetition audit after Batches 01–02.
-3. Batch 03 — Chapters 13–18.
+2. Continuity/repetition audit.
+3. Batch 04 — Chapters 19–24.
 4. Dialogue/emotional texture pass.
-5. Repetition and generic-thriller phrasing cleanup.
+5. Repetition and generic-thriller cleanup.
 6. Final prose line edit.
 7. Publishing package.

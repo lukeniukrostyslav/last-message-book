@@ -1,3 +1,13 @@
+## 2026-09-19 — Block 27.8 Publishing Preparation Final QA completed
+- Revalidated Blocks 27.1–27.7 in order.
+- Confirmed title, genre, manuscript scope, marketing copy, publication metadata rules and package structure remain consistent with locked canon.
+- Confirmed no supernatural mechanism, canon drift or unsupported commercial metadata was introduced.
+- Preserved the intentionally unidentified 08:16 message.
+- Preserved the latest verified 32,204-word measurement without inventing a new count.
+- Added BLOCK_27_8_PUBLISHING_PREPARATION_FINAL_QA.md.
+- **Block 27 — 100% COMPLETE.**
+- Next: **Block 28 — Publishing Package**.
+
 ## 2026-09-19 — Block 27.7 Publishing Package Integration completed
 - Integrated the publication package into a coherent six-layer release structure: manuscript, metadata, marketing, QA, manifest and archive.
 - Defined source-of-truth, metadata integrity and final-word-count rules.

@@ -20,3 +20,11 @@
 - Batch 06: **100%**.
 - Deep scene-level expansion coverage: **36/40 = 90%**.
 - Last verified full-manuscript baseline remains **15,023 words**; no newer exact count claimed until a fresh recount.
+
+## 2026-09-19 — Deep commercial expansion Batch 07 completed
+- Completed scene-level expansion of Chapters 37–40.
+- Strengthened consequences, witness process, and Sofia's agency.
+- Strengthened the final-message uncertainty and ending.
+- Batch 07: **100%**.
+- Deep scene-level expansion coverage: **40/40 = 100%**.
+- Last verified full-manuscript baseline remains **15,023 words**; no newer exact count claimed until a fresh recount.

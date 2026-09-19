@@ -1,7 +1,7 @@
 # BLOCK 24 — CONTROLLED EXPANSION / REFINEMENT
 
 ## Status
-**51% IN PROGRESS**
+**63% IN PROGRESS**
 
 Date: 2026-09-19
 
@@ -47,7 +47,12 @@ Strengthen her independent investigation and source-handling without turning her
 Expand family stakes and Sofia's independent choices without making her passive or purely supportive.
 
 ### 24.5 Thomas / human-cost depth
-**0%**
+**100% COMPLETE**
+- Chapter 27 received a targeted expansion centered on Thomas's agency over his own testimony.
+- Thomas separates evidence relevant to PR-06 from private records he does not authorize for publication.
+- The scene adds a concrete human consequence: even truthful testimony does not erase a person's right to control how their life is represented.
+- No new project fact was invented; the expansion builds on Thomas's existing contemporaneous notes and witness boundaries.
+- GitHub checkpoint: `6e7ed893bb96d1c0e09c5c43074416d14aa1cfef`
 Deepen the human consequence of PR-06 through bounded testimony and lived detail, without inventing unsupported outcomes.
 
 ### 24.6 Hale / institutional pressure depth

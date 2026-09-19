@@ -139,8 +139,11 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 ## Block 22 checkpoint
 **COMPLETE — Final Word Count Gate: 100%.** Fresh repository-wide measurement recorded 26,890 words across Prologue + Chapters 01–40. Gap to 70k: 43,110 words; gap to 100k: 73,110 words. Commercial-length completion remains **NO**.
 
+## Block 23.1 checkpoint
+**COMPLETE — Expansion Architecture: 100%.** The controlled architecture for expanding the 26,890-word manuscript toward 70,000–100,000 words is documented in `BLOCK_23_1_EXPANSION_ARCHITECTURE.md`. Expansion will proceed in manuscript order and will not use word-count quotas or filler.
+
 ## Next action
-**Block 23 — Publishing Package: 0%.**
+**Block 23.2 — Prologue + Chapters 01–10: 0%.**
 
 ## Final Canon Verification checkpoint refresh
 **Block 21 remains 100% COMPLETE.** Final canon verification is locked; no canon change is required. GitHub main checkpoint refreshed 2026-09-19.

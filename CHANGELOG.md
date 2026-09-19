@@ -1,3 +1,11 @@
+## 2026-09-19 — Block 24.5 Thomas / human-cost depth completed
+- Completed Block 24.5 at **100%**; overall Block 24 advances to **63%**.
+- Expanded Chapter 27 with Thomas defining what evidence may be used and what personal material remains private.
+- Strengthened the human-cost theme without turning Thomas into a symbol or reducing his life to the project.
+- No new unsupported project fact; no canon change; no filler.
+- GitHub checkpoints: Chapter 27 6e7ed89; Block 24 report 0c6009f; PROJECT_STATE 0a75f9e.
+- Next: **Block 24.6 — Hale / institutional pressure depth**.
+
 ## 2026-09-19 — Block 24.4 Sofia / family consequence depth completed
 - Completed Block 24.4 at **100%**; overall Block 24 advances to **51%**.
 - Expanded Chapter 13 with Sofia setting explicit participation boundaries and retaining the right to stop.

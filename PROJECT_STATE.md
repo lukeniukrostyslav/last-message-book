@@ -4,35 +4,33 @@ Last updated: 2026-09-19
 
 ## Overall
 Foundation: **100%**
-Story architecture: **0%**
+Story architecture: **100%**
 Manuscript: **0%**
 Editorial system: **0%**
 Publishing package: **0%**
 
 ## Current phase
-**PHASE 1 — STORY FOUNDATION**
+**PHASE 2 — ARCHITECTURE LOCKED**
 
-## Current task
-Build the complete story architecture before drafting the novel.
+## Story Architecture Sub-blocks
+- 1.1 Core concept: **100%**
+- 1.2 Protagonist design: **100%**
+- 1.3 Supporting cast: **100%**
+- 1.4 Central mystery: **100%**
+- 1.5 30-day mechanism: **100%**
+- 1.6 Future photograph rules: **100%**
+- 1.7 Antagonistic force: **100%**
+- 1.8 Clue architecture: **100%**
+- 1.9 Major reversals: **100%**
+- 1.10 Final reveal: **100%**
+- 1.11 Ending: **100%**
+- 1.12 Continuity/timeline: **100%**
 
-## Locked facts
-- Working title: «Последнее сообщение»
-- Genre direction: psychological thriller / mystery / technology / human drama
-- Core countdown: 30 days
-- First warning: «У тебя осталось 30 дней. Не доверяй человеку, который придёт первым.»
-- A second message contains a photograph apparently taken tomorrow.
-- The protagonist appears in that photograph beside an unknown person.
-- The final identity/role twist is intentionally not decided yet.
+## Manuscript
+No chapters are written yet. **0%**.
 
-## Not yet decided
-- protagonist name, age, occupation
-- setting
-- exact technology mechanism
-- sender identity
-- identity of person in photograph
-- reason for the 30-day deadline
-- exact ending
-- sequel mechanics
+## Canon policy
+The architecture is now the working canon. Future manuscript changes must be checked against it.
 
 ## Next action
-Complete STORY ARCHITECTURE and lock the canon only after internal consistency review.
+Write the prologue and Chapter 1 only after the architecture documents have been reviewed as a consistent set.

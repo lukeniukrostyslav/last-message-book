@@ -8,7 +8,18 @@ Story architecture: **100%**
 Chapter outline: **100%**
 Manuscript: **100%**
 Editorial system: **100%**
-Publishing package: **0%**
+Publishing package: **3.125%**
+
+## Block 28 — Publishing Package
+- 28.1 Actual package structure: **100%**
+- 28.2 Reader-facing manuscript assembly: **0%**
+- 28.3 Publication metadata package: **0%**
+- 28.4 Marketing package integration: **0%**
+- 28.5 Release QA package: **0%**
+- 28.6 Manifest and source binding: **0%**
+- 28.7 Archive/reference package: **0%**
+- 28.8 Publishing package integration QA: **0%**
+- Block 28 overall: **12.5%**
 
 ## Current phase
 **PHASE 6 — PUBLISHING PREPARATION**

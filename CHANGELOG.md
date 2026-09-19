@@ -1,3 +1,12 @@
+## 2026-09-19 — Block 27.6 Final Publication Copy Preparation completed
+- Defined the reader-facing publication copy specification: title page, clean Prologue, Chapters 01–40, consistent headings/typography and no development-only audit material.
+- Preserved locked ending and 08:16 treatment.
+- Confirmed final word count belongs to the final assembled package measurement stage.
+- Added BLOCK_27_6_FINAL_PUBLICATION_COPY_PREPARATION.md.
+- Block 27.6 — **100% COMPLETE**.
+- Block 27 overall: **75%**.
+- Next: **Block 27.7 — Publishing package integration**.
+
 ## 2026-09-19 — Block 27.5 Author / Publication Metadata Completion completed
 - Prepared the repository-side publication metadata schema.
 - Confirmed title, genre, Russian language, manuscript scope and latest verified 32,204-word measurement.

@@ -121,5 +121,8 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 ## Block 16 checkpoint
 **COMPLETE — Pacing: 100%.** Prologue → Chapters 01–40 were audited for escalation, chapter transitions, revelation spacing, final-act acceleration and aftermath recovery. Two exact duplicate scenes that interrupted momentum were removed from Chapters 27 and 31. Audit saved in PACING_AUDIT.md.
 
+## Block 17 checkpoint
+**COMPLETE — Prose / Literary Polish: 100%.** Prologue → Chapters 01–40 were reviewed for rhythm, repetition, dialogue texture, grammar/construction and literary consistency. Concrete prose corrections were saved in Chapters 01, 13 and 40; prior duplicate-scene corrections from Block 16 were retained. Audit saved in PROSE_LITERARY_POLISH_AUDIT.md.
+
 ## Next action
-**Block 17 — Prose / Literary Polish: 55%.** Continue in manuscript order; refine voice, rhythm, sentence variety, dialogue texture and literary finish without changing locked canon.
+**Block 18 — Commercial-Length Readiness: 65%.** Continue with the manuscript-length gate and commercial expansion assessment. Use a fresh full-manuscript measurement before relying on an exact current word count; do not pad scenes merely to reach a number.

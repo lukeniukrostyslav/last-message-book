@@ -42,7 +42,14 @@ Gap to 100k: **79,380 words**.
 
 Expand only scenes where additional material improves character, tension, evidence or emotional consequence. Do not inflate word count with filler.
 
-Status: **10%** — measurement is complete; chapter-level expansion design has not yet been executed.
+Status: **25%** — measurement and chapter-level expansion prioritization are complete; actual prose expansion has not yet started.
+
+### Quality expansion planning
+- Chapter-level priority tiers defined.
+- Continuity-sensitive sequence defined.
+- Quality gates defined for every edited chapter.
+
+Status: **25%** — planning complete enough to begin controlled prose expansion.
 
 ### Pass 5 — Line edit
 - rhythm;

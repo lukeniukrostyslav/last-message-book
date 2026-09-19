@@ -11,7 +11,18 @@ Editorial system: **100%**
 Publishing package: **0%**
 
 ## Current phase
-**PHASE 5 — EDITORIAL REFINEMENT / QUALITY EXPANSION GATE**
+**PHASE 6 — PUBLISHING PREPARATION**
+
+## Block 27 — Publishing Preparation
+- 27.1 Publication format / specification audit: **100%**
+- 27.2 Title / author / edition metadata audit: **100%**
+- 27.3 Manuscript package structure: **0%**
+- 27.4 Blurb / synopsis / pitch package: **0%**
+- 27.5 Author / publication metadata completion: **0%** (requires confirmed owner metadata where applicable)
+- 27.6 Final publication copy preparation: **0%**
+- 27.7 Publishing package integration: **0%**
+- 27.8 Publishing preparation final QA: **0%**
+- Block 27 overall: **25%**
 
 ## Story Architecture Sub-blocks
 - 1.1 Core concept: **100%**
@@ -159,29 +170,4 @@ Historical baseline before deep-expansion batches: 15,023 words.
 **COMPLETE — Chapters 21–30 final editorial pass: 100%.** One concrete duplicate aftermath scene was removed from Chapter 24; remaining chapters in the range required no justified prose correction. No canon change or artificial padding.
 
 ## Next action
-**Block 25.4 — Chapters 31–40 final editorial pass.**
-
-### Block 25
-**COMPLETE — Final Editorial Pass: 100%.**
-- 25.1 Chapters 1–10 final editorial pass: **100%**.
-- 25.2 Chapters 11–20 final editorial pass: **100%**.
-- 25.3 Chapters 21–30 final editorial pass: **100%**.
-- 25.4 Chapters 31–40 final editorial pass: **100%**.
-- 25.5 Full manuscript language consistency: **100%**.
-- 25.6 Dialogue / exposition final pass: **100%**.
-- 25.7 Ending / aftermath final pass: **100%**.
-- 25.8 Final editorial integration: **100%**.
-
-### Block 26
-**COMPLETE — Final Canon + Continuity Lock: 100%.** Prologue + Chapters 01–40 were verified against CANON_LOCK, STORY_BIBLE, CHARACTERS, TIMELINE, TWISTS, MASTER_PLOT and CHAPTER_OUTLINE. Core mechanism, chronology, character knowledge, evidence boundaries, Alexei's accountability, archive survival and the intentionally unidentified 08:16 sequel thread remain coherent. No canon change was required.
-
-### Next action
-**Block 27 — Publishing Preparation.**
-- 25.1 Chapters 1–10 final editorial pass: **100%**.
-- 25.2 Chapters 11–20 final editorial pass: **100%**.
-- 25.3 Chapters 21–30 final editorial pass: **100%**.
-- 25.4 Chapters 31–40 final editorial pass: **100%**.
-- 25.5 Full manuscript language consistency: **100%**.
-- 25.6 Dialogue / exposition final pass: **100%**.
-- 25.7 Ending / aftermath final pass: **100%**.
-- 25.8 Final editorial integration: **0%**.
+**Block 27.3 — Manuscript package structure.**

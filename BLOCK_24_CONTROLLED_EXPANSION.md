@@ -1,7 +1,7 @@
 # BLOCK 24 — CONTROLLED EXPANSION / REFINEMENT
 
 ## Status
-**63% IN PROGRESS**
+**75% IN PROGRESS**
 
 Date: 2026-09-19
 
@@ -56,7 +56,11 @@ Expand family stakes and Sofia's independent choices without making her passive 
 Deepen the human consequence of PR-06 through bounded testimony and lived detail, without inventing unsupported outcomes.
 
 ### 24.6 Hale / institutional pressure depth
-**0%**
+**100% COMPLETE**
+- Chapter 25 received a targeted expansion showing institutional pressure through a formal confidentiality demand rather than a repeated personal threat.
+- Alexei separates the document, its practical effect, and the unproven intent behind it; the pressure is handled through source classification and independent legal review.
+- No legal conclusion is invented and no canon change is made.
+- GitHub checkpoint: `dff78f8db4c91071b01d0a4a402067d086ddd1ed`
 Develop pressure through documented choices, incentives and consequences rather than cartoon threats.
 
 ### 24.7 Investigation atmosphere / locations

@@ -1,3 +1,10 @@
+## 2026-09-19 — Block 25 Final Editorial Pass completed
+- Completed Blocks 25.1–25.8 in order.
+- Final editorial integration confirmed chapter-range edits, language consistency, dialogue/exposition balance and ending/aftermath integrity across Prologue + Chapters 01–40.
+- No unresolved editorial issue, canon change or artificial padding remains from Block 25.
+- Block 25 — **100% COMPLETE**.
+- Next: **Block 26 — Final Canon + Continuity Lock**.
+
 ## 2026-09-19 — Block 25.7 Ending / aftermath final pass completed
 - Re-read Chapters 35–40 as one continuous final-act and aftermath sequence.
 - Confirmed Alexei's accountability, archive survival and the resolved Book 1 mechanism remain coherent.

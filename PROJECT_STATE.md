@@ -54,7 +54,7 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 ## Editorial production blocks
 - Structural continuity: **100%**
 - Mystery / clue continuity: **100%**
-- Character continuity: **95%**
+- Character continuity: **100%**
 - Pacing: **90%**
 - Prose / literary polish: **55%**
 - Commercial-length readiness: **65%** (production progress, not percentage of target word count)
@@ -115,5 +115,8 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 ## Block 14 checkpoint
 **COMPLETE — Mystery / Clue Continuity: 100%.** Every major clue, reveal, evidence boundary and payoff was audited in Prologue → Chapters 01–40 order. Chapter 08 received one targeted correction to make the opening-warning payoff explicit without changing Elena's role or locked canon. Audit saved in MYSTERY_CLUE_CONTINUITY_AUDIT.md.
 
+## Block 15 checkpoint
+**COMPLETE — Character Continuity: 100%.** Prologue → Chapters 01–40 were audited for character identity, knowledge timing, motivation, relationships, agency and consequences. Mark Reid and Thomas Rain were added to character canon because both have continuing named narrative functions. Audit saved in CHARACTER_CONTINUITY_AUDIT.md.
+
 ## Next action
-**Block 15 — Character Continuity: 95%.** Continue in manuscript order; verify character knowledge, motivation, relationships, agency and consequence continuity, then save each production checkpoint to GitHub.
+**Block 16 — Pacing: 90%.** Continue in manuscript order; verify escalation, scene pressure, chapter transitions, revelation spacing and recovery beats, then save each production checkpoint to GitHub.

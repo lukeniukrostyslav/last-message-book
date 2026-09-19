@@ -6,12 +6,12 @@ Last updated: 2026-09-19
 Foundation: **100%**
 Story architecture: **100%**
 Chapter outline: **100%**
-Manuscript: **92%**
+Manuscript: **100%**
 Editorial system: **0%**
 Publishing package: **0%**
 
 ## Current phase
-**PHASE 2 — ARCHITECTURE LOCKED**
+**PHASE 3 — FIRST MANUSCRIPT DRAFT COMPLETE**
 
 ## Story Architecture Sub-blocks
 - 1.1 Core concept: **100%**
@@ -28,7 +28,7 @@ Publishing package: **0%**
 - 1.12 Continuity/timeline: **100%**
 
 ## Manuscript
-No chapters are written yet. **0%**.
+First manuscript draft complete: **100%**.
 
 ## Canon policy
 The architecture is now the working canon. Future manuscript changes must be checked against it.
@@ -73,4 +73,9 @@ Write the prologue and Chapter 1 only after the architecture documents have been
 - Chapter 32: **100%**
 - Chapter 33: **100%**
 - Chapter 34: **100%**
-- Chapters 35–40: **0%**
+- Chapter 35: **100%**
+- Chapter 36: **100%**
+- Chapter 37: **100%**
+- Chapter 38: **100%**
+- Chapter 39: **100%**
+- Chapter 40: **100%**

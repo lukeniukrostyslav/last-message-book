@@ -60,6 +60,7 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 - Commercial-length readiness: **65%** (production progress, not percentage of target word count)
 - Deep scene-level expansion: **100%** (40 of 40 chapters)
 - Refinement pass: **in progress**
+- Targeted manual prose diversification — Chapter 37: **100%**
 - Targeted manual prose diversification — Chapter 38: **100%**
 - Targeted manual prose diversification — Chapter 39: **100%**
 - Full manual line edit: **12%**

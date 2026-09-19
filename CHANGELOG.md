@@ -195,3 +195,10 @@
 - Exact full-manuscript recount is deferred to Block 23.6.
 - Block 23.3 — **100% COMPLETE**.
 - GitHub checkpoint saved on main.
+
+
+## 2026-09-19 — Block 23.4 Chapters 21–30 completed
+- Expanded Chapters 21–30 in manuscript order.
+- Preserved canon and evidence boundaries.
+- Added BLOCK_23_4_CHAPTERS_21_30.md.
+- Block 23.4 — **100% COMPLETE**.

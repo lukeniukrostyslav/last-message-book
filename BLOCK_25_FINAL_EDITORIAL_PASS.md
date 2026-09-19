@@ -1,22 +1,20 @@
 # BLOCK 25 — FINAL EDITORIAL PASS
 
-## Status
-Block 25 is an ordered manuscript-wide final editorial pass. The pass is performed without changing locked canon and without adding word-count filler.
-
-## 25.1 — Opening sequence, Chapters 1–10
+## 25.1 — Chapters 1–10
 **100% COMPLETE**
+- Final editorial review completed.
+- No justified prose correction required; no artificial rewriting introduced.
 
-Scope:
-- Chapters 1–10 reviewed in manuscript order for sentence clarity, unnecessary repetition, dialogue naturalness, exposition density, scene-function duplication, terminology consistency and thriller rhythm.
-- Evidence-vs-interpretation discipline was preserved.
-- The existing expansions were not mechanically rewritten where they already served a distinct function.
-- No canon contradiction requiring prose correction was identified in this segment.
-- No artificial deletion or padding was made.
-- The opening remains anchored in Alexei's evidence discipline, the 30-day mechanism, Elena introduction, PR-06 archive discovery and the first independent checks.
+## 25.2 — Chapters 11–20
+**100% COMPLETE**
+- Chapters 11–20 reviewed in manuscript order.
+- Checked prose clarity, sentence rhythm, repeated explanatory language, dialogue, exposition, scene-function overlap, technical terminology, evidence-vs-interpretation discipline, and consistency with the locked M mechanism.
+- Particular attention was given to the transition from the predictive-risk discovery (Ch. 11–12), Elena/source material, the photograph investigation, the staged future-photo reveal, and the distinction between technical proof and attribution.
+- Existing expansions were retained where they added a distinct evidentiary or character function.
+- No canon contradiction requiring a manuscript correction was identified.
+- No artificial word-count padding was introduced.
+- **Editorial decision: no prose change required in 25.2.**
 
-Editorial decision:
-- **No prose change required in 25.1.**
-- This is a valid completion state: the goal of a final editorial pass is to correct defects, not manufacture edits.
-
-## Next
-**25.2 — Chapters 11–20 final editorial pass.**
+## Progress
+**25.2 complete.**
+Next: **25.3 — Chapters 21–30 final editorial pass.**

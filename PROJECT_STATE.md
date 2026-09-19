@@ -143,5 +143,8 @@ Historical baseline before deep-expansion batches: 15,023 words.
 ### Block 23.11
 **COMPLETE — Pacing Recheck: 100%.** Rechecked opening escalation, causal movement, revelation spacing, human-stakes escalation, Day 27–30 acceleration, aftermath decompression, ending restraint and expansion-induced drag. No new pacing defect or filler requiring correction was found. Audit saved in `BLOCK_23_11_PACING_RECHECK.md`.
 
+### Block 23.12
+**COMPLETE — Prose / Literary Recheck: 100%.** Rechecked prose rhythm, dialogue, exposition balance, voice consistency, expansion-era repetition and final-chapter cadence. Found and removed one redundant late ending expansion from Chapter 40 without changing canon or the resolved ending. Audit saved in `BLOCK_23_12_PROSE_LITERARY_RECHECK.md`.
+
 ## Next action
-**Block 23.12 — Prose / Literary Recheck.**
+**Block 23.13 — Final Manuscript Integration.**

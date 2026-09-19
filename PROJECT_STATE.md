@@ -30,9 +30,9 @@ Publishing package: **0%**
 ## Manuscript
 First manuscript draft complete: **100%**. Structural completion is not commercial-length completion.
 
-Fresh full-manuscript measurement completed 2026-09-19: **26,890 words** across Prologue + Chapters 1–40 before Block 23.2 expansion.
+Current verified manuscript measurement after Blocks 23.2–23.6: **32,204 words** across Prologue + Chapters 1–40.
 
-Historical baseline before deep-expansion batches: 15,023 words. Measured increase: **+5,597 words (+37.2%)**.
+Historical baseline before deep-expansion batches: 15,023 words.
 
 ## Deep commercial expansion
 - Batch 01 — Chapters 1–6: **100%**
@@ -60,105 +60,82 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 - Commercial-length readiness: **100%** (readiness gate complete; manuscript itself is NOT yet 70–100k words)
 - Deep scene-level expansion: **100%** (40 of 40 chapters)
 - Refinement pass: **in progress**
-- Targeted manual prose diversification — Chapter 35: **100%**
-- Targeted manual prose diversification — Chapter 11: **100%**
-- Targeted manual prose diversification — Chapter 19: **100%**
-- Targeted manual prose diversification — Chapter 20: **100%**
-- Targeted manual prose diversification — Chapter 21: **100%**
-- Targeted manual prose diversification — Chapter 16: **100%**
-- Targeted manual prose diversification — Chapter 18: **100%**
-- Targeted manual prose diversification — Chapter 22: **100%**
-- Targeted manual prose diversification — Chapter 23: **100%**
-- Targeted manual prose diversification — Chapter 32: **100%**
-- Targeted manual prose diversification — Chapter 24: **100%**
-- Targeted manual prose diversification — Chapter 25: **100%**
-- Targeted manual prose diversification — Chapter 26: **100%**
-- Targeted manual prose diversification — Chapter 27: **100%**
-- Targeted manual prose diversification — Chapter 28: **100%**
-- Targeted manual prose diversification — Chapter 29: **100%**
-- Targeted manual prose diversification — Chapter 30: **100%**
-- Targeted manual prose diversification — Chapter 31: **100%**
-- Targeted manual prose diversification — Chapter 33: **100%**
-- Targeted manual prose diversification — Chapter 36: **100%**
-- Targeted manual prose diversification — Chapter 37: **100%**
-- Targeted manual prose diversification — Chapter 38: **100%**
-- Targeted manual prose diversification — Chapter 39: **100%**
-- Targeted manual prose diversification — Chapter 40: **100%**
 - Full manual line edit: **100%**
 - Measurement gate: **100%**
-- Quality expansion planning: **100%** (Block 11 complete)
+- Quality expansion planning: **100%**
 - Quality expansion chapter prioritization: **100%**
-- Actual prose expansion after the plan: **100%** (Prologue + Chapters 1–40 substantively completed and verified in the ordered production sequence).
-- Quality expansion Batch 02 — Chapters 19–24: **100%**
-- Quality expansion Batch 03 — Chapter 07: **100%**
-- Quality expansion Batch 04 — Chapter 10: **100%**
-- Quality expansion Batch 05 — Ch11–12, Ch20, Ch28–30, Ch34–37: **100%**
-- Quality expansion Batch 06 — Ch13, Ch17–19, Ch21, Ch38–40: **100%**
-- Quality expansion Batch 07 — Ch03, Ch22–27, Ch31–33: **100%**
-- Quality expansion Batch 01 — Chapters 7–12: **100%**
-- Corrective quality-expansion pass — selected remaining chapters (01, 02, 04, 05, 06, 08, 09, 14, 15): **100%** (9/9 chapters substantively reviewed and expanded).
-- Chapters already substantively expanded outside this corrective set were not re-edited.
-- New full-manuscript word count after the corrective pass: **26,890 words**, verified in Block 22.
-- Block 12 production checkpoint: **COMPLETE — Prologue + Chapters 01–40 reviewed for substantive prose expansion.** Prologue was the final missing prose-expansion surface and was saved in commit 97716ec.
-- **GitHub checkpoint saved and verified on main after the corrective 9-chapter pass.**
+- Actual prose expansion after the plan: **100%**
+- Quality Expansion Block 23.7: **100%**
+- Structural Continuity Recheck Block 23.8: **100%**
+- Mystery / Clue Recheck Block 23.9: **100%**
+- Next: Character Continuity Recheck Block 23.10
 
 ## Length gate
-- Measured current manuscript before Block 23.2: **26,890 words**
-- Current post-23.2 working total: **29,425 words** (verified range count + unchanged remainder)
+- Current verified manuscript: **32,204 words**
 - Planned commercial target: **70,000–100,000 words**
-- Gap to 70k: **43,110 words**
-- Gap to 100k: **73,110 words**
+- Gap to 70k: **37,796 words**
+- Gap to 100k: **67,796 words**
 - Commercially length-complete: **NO**
+- No word-count quota is used as justification for filler.
 
-## Block 13 checkpoint
-**COMPLETE — Structural Continuity: 100%.** Prologue → Chapters 01–40 were audited in manuscript order. A post-Day-30 calendar contradiction in Chapters 39–40 was corrected without changing locked canon. Audit saved in `STRUCTURAL_CONTINUITY_AUDIT.md`.
+## Completed checkpoints
 
-## Block 14 checkpoint
-**COMPLETE — Mystery / Clue Continuity: 100%.** Every major clue, reveal, evidence boundary and payoff was audited in Prologue → Chapters 01–40 order. Chapter 08 received one targeted correction to make the opening-warning payoff explicit without changing Elena's role or locked canon. Audit saved in MYSTERY_CLUE_CONTINUITY_AUDIT.md.
+### Block 13
+**COMPLETE — Structural Continuity: 100%.** Prologue → Chapters 01–40 audited in manuscript order. Final-act calendar contradiction corrected without changing locked canon.
 
-## Block 15 checkpoint
-**COMPLETE — Character Continuity: 100%.** Prologue → Chapters 01–40 were audited for character identity, knowledge timing, motivation, relationships, agency and consequences. Mark Reid and Thomas Rain were added to character canon because both have continuing named narrative functions. Audit saved in CHARACTER_CONTINUITY_AUDIT.md.
+### Block 14
+**COMPLETE — Mystery / Clue Continuity: 100%.** Major clues, reveals, evidence boundaries and payoffs audited. Chapter 08 received the targeted “person who comes first” clarification.
 
-## Block 16 checkpoint
-**COMPLETE — Pacing: 100%.** Prologue → Chapters 01–40 were audited for escalation, chapter transitions, revelation spacing, final-act acceleration and aftermath recovery. Two exact duplicate scenes that interrupted momentum were removed from Chapters 27 and 31. Audit saved in PACING_AUDIT.md.
+### Block 15
+**COMPLETE — Character Continuity: 100%.** Character identity, knowledge timing, motivation, relationships, agency and consequences audited. Mark Reid and Thomas Rain were added to character canon.
 
-## Block 17 checkpoint
-**COMPLETE — Prose / Literary Polish: 100%.** Prologue → Chapters 01–40 were reviewed for rhythm, repetition, dialogue texture, grammar/construction and literary consistency. Concrete prose corrections were saved in Chapters 01, 13 and 40; prior duplicate-scene corrections from Block 16 were retained. Audit saved in PROSE_LITERARY_POLISH_AUDIT.md.
+### Block 16
+**COMPLETE — Pacing: 100%.** Escalation, transitions, revelation spacing, final-act acceleration and aftermath recovery audited. Duplicate scenes removed from Chapters 27 and 31.
 
-## Block 18 checkpoint
-**COMPLETE — Commercial-Length Readiness: 100%.** The commercial-length gate, target, expansion architecture, no-padding rules and future measurement requirements are documented in COMMERCIAL_LENGTH_READINESS.md. The manuscript itself is explicitly NOT yet commercial-length-complete; no inflated word-count claim is made.
+### Block 17
+**COMPLETE — Prose / Literary Polish: 100%.** Prologue → Chapters 01–40 reviewed and concrete prose corrections saved.
 
-## Block 19 checkpoint
-**COMPLETE — Full Manual Line Edit: 100%.** Prologue → Chapters 01–40 covered in ordered line-edit audit. Audit saved in FULL_MANUAL_LINE_EDIT_AUDIT.md.
+### Block 18
+**COMPLETE — Commercial-Length Readiness: 100%.** Readiness architecture complete. Manuscript itself remains below the 70–100k target.
 
-## Block 20 checkpoint
-**COMPLETE — Final Manuscript QA: 100%.** Prologue → Chapters 01–40 checked for canon, chronology, M mechanism, evidence discipline, character agency, duplicate structure and ending integrity. A concrete premature end-marker defect in Chapter 40 was corrected and saved. Audit saved in FINAL_MANUSCRIPT_QA.md.
+### Block 19
+**COMPLETE — Full Manual Line Edit: 100%.** Prologue → Chapters 01–40 covered.
 
-## Block 21 checkpoint
-**COMPLETE — Final Canon Verification: 100%.** Locked canon, timeline, twist architecture, character canon, chapter outline and Prologue → Chapter 40 final-act chronology were verified. No canon change was required. Audit saved in FINAL_CANON_VERIFICATION.md.
+### Block 20
+**COMPLETE — Final Manuscript QA: 100%.** Canon, chronology, M mechanism, evidence discipline, agency, duplicate structure and ending integrity checked.
 
-## Block 22 checkpoint
-**COMPLETE — Final Word Count Gate: 100%.** Fresh repository-wide measurement recorded 26,890 words across Prologue + Chapters 01–40. Gap to 70k: 43,110 words; gap to 100k: 73,110 words. Commercial-length completion remains **NO**.
+### Block 21
+**COMPLETE — Final Canon Verification: 100%.** Locked canon, timeline, twist architecture, character canon and final-act chronology verified.
 
-## Block 23.1 checkpoint
-**COMPLETE — Expansion Architecture: 100%.** The controlled architecture for expanding the 26,890-word manuscript toward 70,000–100,000 words is documented in `BLOCK_23_1_EXPANSION_ARCHITECTURE.md`. Expansion will proceed in manuscript order and will not use word-count quotas or filler.
+### Block 22
+**COMPLETE — Final Word Count Gate: 100%.** Exact baseline measurement recorded at 26,890 words before the 23.x expansion sequence.
 
-## Block 23.2 checkpoint
-**COMPLETE — Prologue + Chapters 01–10: 100%.** The range was expanded in manuscript order and saved to GitHub. Verified range count: 10,581 words; current working manuscript total: 29,425 words.
+### Block 23.1
+**COMPLETE — Expansion Architecture: 100%.**
 
-## Block 23.3 checkpoint
-**COMPLETE — Chapters 11–20: 100%.** Chapters 11–20 were expanded in manuscript order and saved to GitHub. Exact full-manuscript recount is deferred to Block 23.6.
+### Block 23.2
+**COMPLETE — Prologue + Chapters 01–10: 100%.**
+
+### Block 23.3
+**COMPLETE — Chapters 11–20: 100%.**
+
+### Block 23.4
+**COMPLETE — Chapters 21–30: 100%.**
+
+### Block 23.5
+**COMPLETE — Chapters 31–40: 100%.**
+
+### Block 23.6
+**COMPLETE — Fresh Word Count: 100%.** Current verified manuscript: 32,204 words.
+
+### Block 23.7
+**COMPLETE — Quality Expansion Pass: 100%.** Prologue → Chapters 01–40 reviewed after the 23.2–23.6 expansion sequence. One targeted Chapter 01 deepening was made; no filler was added.
+
+### Block 23.8
+**COMPLETE — Structural Continuity Recheck: 100%.** Chapter 32 pre-publication chronology defect corrected and checkpointed.
+
+### Block 23.9
+**COMPLETE — Mystery / Clue Recheck: 100%.** Prologue → Chapters 01–40 rechecked against locked canon, twists, outline and the expanded manuscript. No new mystery/clue continuity defect requiring prose correction was found. No canon change was required. Audit saved in `BLOCK_23_9_MYSTERY_CLUE_RECHECK.md`.
 
 ## Next action
-**Block 23.4 — Chapters 21–30: 100%.** Chapters 21–30 were expanded and saved on main.
-
-## Final Canon Verification checkpoint refresh
-**Block 21 remains 100% COMPLETE.** Final canon verification is locked; no canon change is required. GitHub main checkpoint refreshed 2026-09-19.
-
-
-## Block 23.7 checkpoint
-**COMPLETE — Quality Expansion Pass: 100%.** Prologue → Chapters 01–40 were reviewed in manuscript order after the 23.2–23.6 expansion sequence. Chapter 01 received one targeted deepening of Alexei's unresolved PR-06 responsibility trail. Chapters 02–40 were reviewed and left unchanged where additional expansion would not add story value. No canon contradiction or supernatural mechanism was introduced. Current verified manuscript measurement remains **32,204 words**. Next: **Block 23.8 — Structural Continuity Recheck**.
-
-
-## Block 23.8 checkpoint
-**COMPLETE — Structural Continuity Recheck: 100%.** Prologue → Chapters 01–40 were rechecked in manuscript order. A concrete chronology defect in Chapter 32 was corrected: publication was moved back out of Day 29 wording, restoring the explicit Chapter 36 09:00 publication point. No canon change. Next: **Block 23.9 — Mystery / Clue Recheck**.
+**Block 23.10 — Character Continuity Recheck.**

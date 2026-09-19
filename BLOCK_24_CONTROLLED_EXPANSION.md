@@ -1,7 +1,7 @@
 # BLOCK 24 — CONTROLLED EXPANSION / REFINEMENT
 
 ## Status
-**27% IN PROGRESS**
+**39% IN PROGRESS**
 
 Date: 2026-09-19
 
@@ -31,7 +31,11 @@ GitHub checkpoint: `ecdf2d0296021f6f07df6468985ddbaaa599248a`
 Expand only where additional scene material reveals a new decision, recovered memory, consequence or contradiction—not repeated self-reflection.
 
 ### 24.3 Elena investigation depth
-**0%**
+**100% COMPLETE**
+- Chapter 16 received a targeted expansion showing Elena's independent source-control discipline.
+- Added a concrete investigative decision: she withheld an uncorroborated claim about Hale rather than turning an anonymous source into an established fact.
+- The scene deepens Elena's agency and method without changing canon or duplicating the later publication sequence.
+- GitHub checkpoint: `1f8d8889fd40e6f2a6deee6afabf78a606897036`
 Strengthen her independent investigation and source-handling without turning her into an omniscient expositor.
 
 ### 24.4 Sofia / family consequence depth

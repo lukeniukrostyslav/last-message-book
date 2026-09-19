@@ -137,5 +137,8 @@ Historical baseline before deep-expansion batches: 15,023 words.
 ### Block 23.9
 **COMPLETE — Mystery / Clue Recheck: 100%.** Prologue → Chapters 01–40 rechecked against locked canon, twists, outline and the expanded manuscript. No new mystery/clue continuity defect requiring prose correction was found. No canon change was required. Audit saved in `BLOCK_23_9_MYSTERY_CLUE_RECHECK.md`.
 
+### Block 23.10
+**COMPLETE — Character Continuity Recheck: 100%.** Character identity, knowledge timing, motivation, relationships, agency, witness boundaries and M's non-human mechanism were rechecked after the expansion sequence. No manuscript correction or canon change was required. Audit saved in `BLOCK_23_10_CHARACTER_CONTINUITY_RECHECK.md`.
+
 ## Next action
-**Block 23.10 — Character Continuity Recheck.**
+**Block 23.11 — Pacing Recheck.**

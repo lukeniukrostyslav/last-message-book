@@ -12,3 +12,9 @@
 - Defined protagonist, core cast, central mechanism, timeline, clue/twist structure and ending.
 - Confirmed the story uses a non-supernatural explanation for the future photograph.
 - Manuscript remains 0%; no chapter has been falsely marked complete.
+
+
+## 2026-09-19 — Chapter outline
+- Added a complete 40-chapter + prologue working outline.
+- Mapped the countdown, clues, reversals, character beats and ending.
+- Book 1 is designed to resolve its central mystery while preserving a controlled sequel hook.

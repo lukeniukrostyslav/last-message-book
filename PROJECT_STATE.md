@@ -172,8 +172,11 @@ Historical baseline before deep-expansion batches: 15,023 words.
 - 25.7 Ending / aftermath final pass: **100%**.
 - 25.8 Final editorial integration: **100%**.
 
+### Block 26
+**COMPLETE — Final Canon + Continuity Lock: 100%.** Prologue + Chapters 01–40 were verified against CANON_LOCK, STORY_BIBLE, CHARACTERS, TIMELINE, TWISTS, MASTER_PLOT and CHAPTER_OUTLINE. Core mechanism, chronology, character knowledge, evidence boundaries, Alexei's accountability, archive survival and the intentionally unidentified 08:16 sequel thread remain coherent. No canon change was required.
+
 ### Next action
-**Block 26 — Final Canon + Continuity Lock.**
+**Block 27 — Publishing Preparation.**
 - 25.1 Chapters 1–10 final editorial pass: **100%**.
 - 25.2 Chapters 11–20 final editorial pass: **100%**.
 - 25.3 Chapters 21–30 final editorial pass: **100%**.

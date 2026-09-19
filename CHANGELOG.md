@@ -124,3 +124,13 @@
 - Editorial system advanced to **100%**.
 - Block 19 — Full Manual Line Edit: **100% COMPLETE**.
 - GitHub checkpoints: audit 9da2a99, PROJECT_STATE a2a48db.
+
+
+## 2026-09-19 — Block 20 Final Manuscript QA completed
+- Audited Prologue → Chapter 40 for canon, chronology, M mechanism, evidence discipline, character agency, duplicate structure and ending integrity.
+- Confirmed the Chapter 19 automated future-language flag was a false positive because the actual prose explicitly denies M future sight.
+- Found and corrected one concrete structural defect: Chapter 40 had an end marker before additional ending scenes.
+- Removed the premature end marker; no story or canon change.
+- Added FINAL_MANUSCRIPT_QA.md.
+- Block 20 — Final Manuscript QA: **100% COMPLETE**.
+- GitHub checkpoints: Ch40 44c965d, audit e57c84b, PROJECT_STATE bc4d323.

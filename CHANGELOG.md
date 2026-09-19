@@ -1,3 +1,12 @@
+## 2026-09-19 — Block 12 Actual Prose Expansion completed
+- Verified the ordered manuscript surfaces from **Prologue through Chapter 40**.
+- Prologue received the final substantive prose expansion, including the sender's decision logic and the distinction between M's model and actual future knowledge.
+- Chapters 01–40 already contained substantive expansion material; no unnecessary re-editing was performed on completed chapters.
+- Block 12: **100% COMPLETE**.
+- Final Block 12 checkpoint saved in PROJECT_STATE commit **0e1ae9e**.
+- Prologue expansion commit: **97716ec**.
+- The manuscript remains below the commercial-length target; that is handled by the separate Commercial-Length Readiness and subsequent measurement gates, not by padding Block 12.
+
 ## 2026-09-19 — Block 12 ordered prose expansion checkpoint
 - Expanded Chapters **13, 16, 17 and 18** with new evidence-chain, source provenance, verification, mechanism-testing and uncertainty-control scenes.
 - Existing completed Chapters **14 and 15** were not re-edited.

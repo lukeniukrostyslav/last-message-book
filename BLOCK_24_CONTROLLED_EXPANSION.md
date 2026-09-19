@@ -1,7 +1,7 @@
 # BLOCK 24 — CONTROLLED EXPANSION / REFINEMENT
 
 ## Status
-**75% IN PROGRESS**
+**87% IN PROGRESS**
 
 Date: 2026-09-19
 
@@ -64,7 +64,11 @@ Deepen the human consequence of PR-06 through bounded testimony and lived detail
 Develop pressure through documented choices, incentives and consequences rather than cartoon threats.
 
 ### 24.7 Investigation atmosphere / locations
-**0%**
+**100% COMPLETE**
+- Chapter 4 received a targeted atmospheric/location expansion using the existing café scene.
+- Added concrete spatial details and showed how environment affects observation without asserting that the location was actually exploited by an antagonist.
+- Alexei records environmental conditions separately from inference, preserving the evidence discipline of the manuscript.
+- GitHub checkpoint: `b0569d04c9ba05355360f90e34520613921df58d`
 Add meaningful environmental detail only where it changes tension, observation or character behaviour.
 
 ### 24.8 Final-act consequence depth

@@ -57,7 +57,7 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 - Character continuity: **100%**
 - Pacing: **100%**
 - Prose / literary polish: **55%**
-- Commercial-length readiness: **65%** (production progress, not percentage of target word count)
+- Commercial-length readiness: **100%** (readiness gate complete; manuscript itself is NOT yet 70–100k words)
 - Deep scene-level expansion: **100%** (40 of 40 chapters)
 - Refinement pass: **in progress**
 - Targeted manual prose diversification — Chapter 35: **100%**
@@ -124,5 +124,8 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 ## Block 17 checkpoint
 **COMPLETE — Prose / Literary Polish: 100%.** Prologue → Chapters 01–40 were reviewed for rhythm, repetition, dialogue texture, grammar/construction and literary consistency. Concrete prose corrections were saved in Chapters 01, 13 and 40; prior duplicate-scene corrections from Block 16 were retained. Audit saved in PROSE_LITERARY_POLISH_AUDIT.md.
 
+## Block 18 checkpoint
+**COMPLETE — Commercial-Length Readiness: 100%.** The commercial-length gate, target, expansion architecture, no-padding rules and future measurement requirements are documented in COMMERCIAL_LENGTH_READINESS.md. The manuscript itself is explicitly NOT yet commercial-length-complete; no inflated word-count claim is made.
+
 ## Next action
-**Block 18 — Commercial-Length Readiness: 65%.** Continue with the manuscript-length gate and commercial expansion assessment. Use a fresh full-manuscript measurement before relying on an exact current word count; do not pad scenes merely to reach a number.
+**Block 19 — Full Manual Line Edit: 12%.** Continue in manuscript order with sentence-level manual editing. Preserve canon, continuity, pacing and the no-padding rule.

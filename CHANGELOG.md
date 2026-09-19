@@ -1,3 +1,19 @@
+## 2026-09-19 — Block 27.2 Title / Author / Edition Metadata Audit completed
+- Audited title, genre and publication metadata readiness.
+- Confirmed the title and genre against CANON_LOCK.md.
+- Explicitly identified author/publication name, edition, publisher, ISBN, publication date, price and distribution metadata as unconfirmed rather than inventing values.
+- Added BLOCK_27_2_TITLE_AUTHOR_EDITION_METADATA_AUDIT.md.
+- Block 27.2 — **100% COMPLETE**.
+- Next: **Block 27.3 — Manuscript package structure**.
+
+## 2026-09-19 — Block 27.1 Publication Format / Specification Audit completed
+- Audited the repository for existing publication-preparation assets and format specifications.
+- Found no dedicated publishing package, synopsis/blurb package, ISBN/publisher metadata, or publication specification file.
+- Defined the required publishing-preparation deliverables without altering manuscript canon.
+- Added BLOCK_27_1_PUBLICATION_FORMAT_SPECIFICATION_AUDIT.md.
+- Block 27.1 — **100% COMPLETE**.
+- Next: **Block 27.2 — Title / Author / Edition Metadata Audit**.
+
 ## 2026-09-19 — Block 26 Final Canon + Continuity Lock completed
 - Verified Prologue + Chapters 01–40 against all locked canon and architecture sources.
 - Confirmed chronology, character knowledge, M mechanism, future-photo mechanism, Day 30 deletion window, Alexei's accountability, archive survival and ending integrity.

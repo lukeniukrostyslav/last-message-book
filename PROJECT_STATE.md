@@ -7,7 +7,7 @@ Foundation: **100%**
 Story architecture: **100%**
 Chapter outline: **100%**
 Manuscript: **100%**
-Editorial system: **65%**
+Editorial system: **68%**
 Publishing package: **0%**
 
 ## Current phase
@@ -34,7 +34,7 @@ First manuscript draft complete: **100%**. Structural completion is not the same
 The architecture is now the working canon. Future manuscript changes must be checked against it.
 
 ## Next action
-Perform the complete ending pass across Chapters 37–40, measure exact manuscript word count, then run the full continuity/clue/prose/repetition audit and publishing package.
+Expand the manuscript substantially toward the 70–100k commercial range, then run the full continuity/clue/prose/repetition audit and final publishing package. Measured current manuscript size: 15,023 words using the project tokenization rule.
 
 
 ## Manuscript progress

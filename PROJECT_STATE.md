@@ -6,7 +6,7 @@ Last updated: 2026-09-19
 Foundation: **100%**
 Story architecture: **100%**
 Chapter outline: **100%**
-Manuscript: **68%**
+Manuscript: **76%**
 Editorial system: **0%**
 Publishing package: **0%**
 
@@ -63,4 +63,7 @@ Write the prologue and Chapter 1 only after the architecture documents have been
 - Chapter 22: **100%**
 - Chapter 23: **100%**
 - Chapter 24: **100%**
-- Chapters 25–40: **0%**
+- Chapter 25: **100%**
+- Chapter 26: **100%**
+- Chapter 27: **100%**
+- Chapters 28–40: **0%**

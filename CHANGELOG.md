@@ -61,3 +61,13 @@
 - Added STRUCTURAL_CONTINUITY_AUDIT.md with the ordered transition matrix and Definition of Done.
 - Block 13 — Structural Continuity: **100% COMPLETE**.
 - GitHub checkpoints: Ch39 4e658e2, Ch40 9f620f9, audit d871fe6, PROJECT_STATE 19886d3.
+
+
+## 2026-09-19 — Block 14 Mystery / Clue Continuity completed
+- Audited Prologue → Chapters 01–40 in manuscript order.
+- Verified major clues, reveals, evidence boundaries and payoffs against TWISTS, STORY_BIBLE and the locked outline.
+- Found one concrete clue-payoff gap: the opening warning's “person who comes first” was only implicit.
+- Corrected Chapter 08 so Elena is explicitly the first physical arrival after the warning, while preserving the distinction that sequence does not make her untrustworthy.
+- Added MYSTERY_CLUE_CONTINUITY_AUDIT.md with the full clue → reveal/payoff matrix.
+- Block 14 — Mystery / Clue Continuity: **100% COMPLETE**.
+- GitHub checkpoints: Ch08 f1df137, audit c9e2ba6, PROJECT_STATE 5044686, refinement plan ba02973.

@@ -1,3 +1,12 @@
+## 2026-09-19 — Block 25.3 completed
+- Completed **25.3 Chapters 21–30 final editorial pass** at **100%**.
+- Reviewed Chapters 21–30 in manuscript order for prose clarity, rhythm, dialogue, exposition, repetition, technical terminology, evidence boundaries, character responsibility and M mechanism consistency.
+- Found one concrete duplicate aftermath scene in Chapter 24 repeating the same narrative function around Mark's disappearance and the flash-drive evidence; removed only that redundant section.
+- No canon change and no artificial word-count padding.
+- GitHub checkpoints: Chapter 24 `754a9bb0c50a1c133884bd088b199f1b65cf7dc2`; Block 25 report `e2228127a5993a7580987e0dd7b5eee9c9ff3a25`; PROJECT_STATE `155f6c71babf9884dc64637be73c626583e62f4e`.
+- Block 25 advances to **37.5%**.
+- Next: **25.4 Chapters 31–40 final editorial pass**.
+
 ## 2026-09-19 — Block 25.2 completed
 - Completed **25.2 Chapters 11–20 final editorial pass** at **100%**.
 - Reviewed prose clarity, rhythm, dialogue, exposition, technical terminology, evidence boundaries, M mechanism consistency and repetition.

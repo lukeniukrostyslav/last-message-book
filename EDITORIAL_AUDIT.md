@@ -40,13 +40,16 @@ The prior commercial expansion pass through Chapter 40 is complete. This percent
 ## Deep commercial expansion pass
 
 ### Batch 01 — Chapters 1–6
-- Overall batch: **17%**
+- Overall batch: **100%**
 - Chapter 1: **100%**
-- Chapter 2: **0%**
-- Chapter 3: **0%**
-- Chapter 4: **0%**
-- Chapter 5: **0%**
-- Chapter 6: **0%**
+- Chapter 2: **100%**
+- Chapter 3: **100%**
+- Chapter 4: **100%**
+- Chapter 5: **100%**
+- Chapter 6: **100%**
+
+### Batch 01 result
+Chapters 1–6 received scene-level expansion focused on concrete investigative procedure, physical grounding, internal conflict, evidence discipline and dialogue texture without changing locked canon.
 
 ### Chapter 1 result
 Chapter 1 received a scene-level expansion focused on:

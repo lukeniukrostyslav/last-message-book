@@ -52,3 +52,12 @@
 - Chapters already substantively expanded in prior work were intentionally left untouched.
 - Corrective set: **9/9 = 100%**.
 - Full manuscript remeasurement after this pass: **pending**.
+
+
+## 2026-09-19 — Block 13 Structural Continuity completed
+- Audited Prologue → Chapters 01–40 in manuscript order.
+- Verified Day 0, Day 1, Day 27–30, archive deletion, witness/accountability and aftermath transitions.
+- Found and corrected a concrete final-act calendar contradiction in Chapters 39–40: the ending previously used 20 September after the Day 30 arc; it now uses relative post-publication timing and retains the 08:16 sequel signal.
+- Added STRUCTURAL_CONTINUITY_AUDIT.md with the ordered transition matrix and Definition of Done.
+- Block 13 — Structural Continuity: **100% COMPLETE**.
+- GitHub checkpoints: Ch39 4e658e2, Ch40 9f620f9, audit d871fe6, PROJECT_STATE 19886d3.

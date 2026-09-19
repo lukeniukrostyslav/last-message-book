@@ -1,3 +1,11 @@
+## 2026-09-19 — Block 24.6 Hale / institutional pressure depth completed
+- Completed Block 24.6 at **100%**; overall Block 24 advances to **75%**.
+- Expanded Chapter 25 with a formal institutional-pressure sequence based on a confidentiality demand and source classification.
+- Alexei separates the practical effect of the document from any unverified claim about Hale's intent.
+- No invented legal conclusion, no canon change, no filler.
+- GitHub checkpoints: Chapter 25 dff78f8; Block 24 report 50fb57d; PROJECT_STATE cb42b0a.
+- Next: **Block 24.7 — Investigation atmosphere / locations**.
+
 ## 2026-09-19 — Block 24.5 Thomas / human-cost depth completed
 - Completed Block 24.5 at **100%**; overall Block 24 advances to **63%**.
 - Expanded Chapter 27 with Thomas defining what evidence may be used and what personal material remains private.

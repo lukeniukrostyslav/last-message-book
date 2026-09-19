@@ -71,3 +71,13 @@
 - Added MYSTERY_CLUE_CONTINUITY_AUDIT.md with the full clue → reveal/payoff matrix.
 - Block 14 — Mystery / Clue Continuity: **100% COMPLETE**.
 - GitHub checkpoints: Ch08 f1df137, audit c9e2ba6, PROJECT_STATE 5044686, refinement plan ba02973.
+
+
+## 2026-09-19 — Block 15 Character Continuity completed
+- Audited Prologue → Chapters 01–40 for character identity, knowledge timing, motivation, relationships, agency and consequences.
+- Identified a documentation continuity gap: named characters Mark Reid and Thomas Rain had continuing narrative functions but were absent from CHARACTERS.md.
+- Added bounded character canon and continuity rules for Mark, Thomas and the existing major cast.
+- No manuscript prose rewrite was required after the ordered character-state audit; avoided unnecessary re-editing.
+- Added CHARACTER_CONTINUITY_AUDIT.md.
+- Block 15 — Character Continuity: **100% COMPLETE**.
+- GitHub checkpoints: CHARACTERS 3823420, audit 8ba8c23, PROJECT_STATE 736d698, refinement plan dc00203.

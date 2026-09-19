@@ -96,6 +96,10 @@ Historical baseline before deep-expansion batches: 15,023 words. Measured increa
 - Quality expansion Batch 06 — Ch13, Ch17–19, Ch21, Ch38–40: **100%**
 - Quality expansion Batch 07 — Ch03, Ch22–27, Ch31–33: **100%**
 - Quality expansion Batch 01 — Chapters 7–12: **100%**
+- Corrective quality-expansion pass — selected remaining chapters (01, 02, 04, 05, 06, 08, 09, 14, 15): **100%** (9/9 chapters substantively reviewed and expanded).
+- Chapters already substantively expanded outside this corrective set were not re-edited.
+- New full-manuscript word count: **not yet measured** after this pass.
+
 
 ## Length gate
 - Measured current manuscript: **20,620 words**
